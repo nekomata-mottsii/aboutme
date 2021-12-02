@@ -9,6 +9,7 @@ Find me on this platforms aswell:
 - <a href="https://my.playstation.com/profile/Motzey___"> PSN </a> (for nearly any game I do play)
 - <a href="https://account.xbox.com/en-us/profile?gamertag=MotzeyMC"> XBL </a> (for <i> MC Java Launcher </i> and <i> MC Bedrock Crossplay</i>)
 - <a href="https://www.planetminecraft.com/member/motzey/"> PMC </a> (Planet Minecraft) 
+- EpicGames: MotzeyRL (<i>for Rocket League Crossplay</i>)
 - <a href="https://imgur.com/user/Motzey"> Imgur </a> 
 <br>
 
