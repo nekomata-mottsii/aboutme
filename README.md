@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Motzey
+- 👀 I’m on here to give feedback to creators
+- 🌱 I like to play modded Minecraft
+- 📫 How to reach me: Discord Motzey#0138
