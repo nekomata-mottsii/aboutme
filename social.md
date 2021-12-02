@@ -1,5 +1,6 @@
 Find me on this platforms aswell:
 
+- <a href="https://discord.gg/QYZk6cz"> Discord </a>
 - <a href="https://youtube.com/motzey__"> YouTube </a>
 - <a href="https://twitch.tv/motzey___"> Twitch </a>
 - <a href="https://instagram.com/motzey___"> Instagram </a>
@@ -7,3 +8,7 @@ Find me on this platforms aswell:
 - <a href="https://my.playstation.com/profile/Motzey___"> PSN </a>
 - <a href="https://account.xbox.com/en-us/profile?gamertag=MotzeyMC"> XBL </a> (for Minecraft)
 - <a href="https://imgur.com/user/Motzey"> Imgur </a> 
+<br>
+
+Go back to my main Page:
+- <a href="https://github.com/Motzey187"> Click Here </a>
