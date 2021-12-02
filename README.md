@@ -17,5 +17,4 @@
 </br>
 
 📫 How to reach out to me: </br>
--    DC: Motzey#0138
--    IG: motzey___
+-    <a href=social.md> Click Here </a>
