@@ -24,5 +24,5 @@
 -    rainbow six siege
 </br>
 
-📫 How to reach out to me (Social): </br>
+📫 Social Stuff: </br>
 -    <a href=social.md> Click Here </a>
