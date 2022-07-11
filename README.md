@@ -1,7 +1,7 @@
 👋 Hi, I’m Motzey </br>
 
 About Me </br>
-GER/ENG/JA
+GER/ENG/JA </br>
 »ゲーマー・と・オタク«
 - PlayStation Gamer
 - Anime enjoyer
