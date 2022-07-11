@@ -10,6 +10,24 @@ estimated watchtime: 25 days
     <li>Action (ca. 28%)</li>
   </ol><br>
 <h1> My Waifu </h1>
-<p> name: 湯崎司 <i> Yuzaki, Tsukasa </i> <br> anime: トニカクカワイイ <i> Tonikaku Kawaii </i> <br>
-![tsukasa-yuzaki](https://user-images.githubusercontent.com/95412753/178366209-ee013cf8-8b14-4f61-b6af-e90d8864b922.gif) <br>
-</p>
+<p>name: 湯崎司 <i>(Yuzaki, Tsukasa)</i><br>anime: トニカクカワイイ <i>(Tonikaku Kawaii)</i><p>
+<img src="https://c.tenor.com/LyotbYW8N-UAAAAd/tsukasa-yuzaki.gif" alt="yuzaki-tsukasa-nomnom" width="498" height="278"><br>
+<h1>Top 5s</h1>
+<h3>Animes</h3>
+<ol>
+  <li>デート・ア・ライブ <i>(Date A Live)</i></li>
+  <li>トニカクカワイイ　<i>(Tonikaku Kawaii)</i></li>
+  <li>この素晴らしい世界に祝福を！ <i>(Konosuba)</i></li>
+  <li>中二病でも恋がしたい! <i>(Chuunibyou demo Koi ga Shitai!)</i></li>
+  <li>四月は君の嘘 <i>(Shigatsu wa Kimi no Uso)</i></li>
+</ol>
+<h3>Characters</h3>
+<ol>
+  <li>時崎狂三 <i>(Tokisaki, Kurumi)</i> [Date A Live]</li>
+  <li>西住みほ <i>(Nishizumi, Miho)</i> [Girls und Panzer]</li>
+  <li>めぐみん <i>(Megumin)</i> [Konosuba]</li>
+  <li>五河琴里 <i>(Itsuka, Kotori)</i> [Date A Live]</li>
+  <li>日向ヒナタ <i>(Hyuuga, Hinata)</i> [Naruto]</li>
+</ol>
+<h3> Watchlist </h3>
+<img src="https://c.tenor.com/geGFxXPcbfkAAAAS/chuunibyou-smug.gif" width="500" height="500" href="https://kitsu.io/users/mottsui/library">
