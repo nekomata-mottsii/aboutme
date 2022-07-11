@@ -29,5 +29,12 @@ estimated watchtime: 25 days
   <li>五河琴里 <i>(Itsuka, Kotori)</i> [Date A Live]</li>
   <li>日向ヒナタ <i>(Hyuuga, Hinata)</i> [Naruto]</li>
 </ol>
-<h3> Watchlist </h3>
-<img src="https://c.tenor.com/geGFxXPcbfkAAAAS/chuunibyou-smug.gif" width="500" height="500" href="https://kitsu.io/users/mottsui/library">
+<h1> Watchlist </h1>
+<div class="container">
+  <a href="https://kitsu.io/users/mottsui/library">
+    <img src="https://c.tenor.com/geGFxXPcbfkAAAAS/chuunibyou-smug.gif" width="250" height="250" alt="test" class="image">
+    <div class="overlay">
+      <div class="text">click for redirect</div>
+      </a>
+    </div>
+  
