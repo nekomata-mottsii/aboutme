@@ -11,5 +11,5 @@ different links:
 -   <a href="https://github.com/404-MotzeyNotFound/aboutme/blob/main/social.md"> social media </a>
 -   <a href="https://github.com/404-MotzeyNotFound/aboutme/blob/main/gaming.md"> gaming stuff </a>
 -   <a href="https://my.bio/motzey"> collective link gaming identity </a>
--   <a href="https;//my.bio/mottsui"> collective link otajz identity </a>
+-   <a href="https;//my.bio/mottsui"> collective link otaku identity </a>
 <br>
