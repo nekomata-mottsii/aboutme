@@ -13,4 +13,4 @@ Find me on this platforms aswell:
 <br>
 
 Go back to my main Page:
-- <a href="https://github.com/Motzey187"> Click Here </a>
+- <a href="https://github.com/404-MotzeyNotFound"> Click Here </a>
