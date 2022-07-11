@@ -1,4 +1,12 @@
 👋 Hi, I’m Motzey </br>
+
+About Me </br>
+GER/ENG/JA
+»ゲーマー・と・オタク«
+- PlayStation Gamer
+- Anime enjoyer
+- Top 5: DAL, Tonikawa, Konosuba, Chu-2, YLIP
+
 👀 I’m on here to give feedback on creations like:
 -    Minecraft Mods
 -    other Open Source Projects 
