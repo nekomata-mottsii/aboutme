@@ -1,5 +1,5 @@
 list is update here and then <br>
-last update on Mon, Jun 11 2022 at 11:40 pm <br>
+last update on Mon, Jun 12 2022 at 12:55 am <br>
 
 <h1> basic stuff </h1>
 estimated watchtime: 25 days
@@ -8,7 +8,7 @@ estimated watchtime: 25 days
     <li>Comedy (ca. 60%)</li>
     <li>Romance (ca. 46%)</li>
     <li>Action (ca. 28%)</li>
-  </ol><br>
+  </ol>
 <h1> My Waifu </h1>
 <p>name: 湯崎司 <i>(Yuzaki, Tsukasa)</i><br>anime: トニカクカワイイ <i>(Tonikaku Kawaii)</i><p>
 <img src="https://c.tenor.com/LyotbYW8N-UAAAAd/tsukasa-yuzaki.gif" alt="yuzaki-tsukasa-nomnom" width="498" height="278"><br>
@@ -30,11 +30,12 @@ estimated watchtime: 25 days
   <li>日向ヒナタ <i>(Hyuuga, Hinata)</i> [Naruto]</li>
 </ol>
 <h1> Watchlist </h1>
-<div class="container">
-  <a href="https://kitsu.io/users/mottsui/library">
-    <img src="https://c.tenor.com/geGFxXPcbfkAAAAS/chuunibyou-smug.gif" width="250" height="250" alt="test" class="image">
-    <div class="overlay">
-      <div class="text">click for redirect</div>
-      </a>
-    </div>
-  
+  <div class="container">
+    <a href="https://kitsu.io/users/mottsui/library">
+      <img src="https://c.tenor.com/geGFxXPcbfkAAAAS/chuunibyou-smug.gif" width="250" height="250" alt="test" class="image">
+      <div class="overlay">
+    </a>
+  </div>
+ click image to get sent to watchlist on kitsu
+  <h1></h1>
+  <a href="https://github.com/404-MotzeyNotFound">go back to main page</a>
