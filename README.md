@@ -1,8 +1,8 @@
-Hi, I’m Motzey </br>
+こんにちわ、モッツイです。 </br>
 short bio </br>
 -   19 yo, male, he/him
 -   GER/ENG/JA
--   playstation gamer
+-   playstation gamer: mottsui-senpai
 -   anime enjoyer
 <br>
 
