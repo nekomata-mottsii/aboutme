@@ -7,9 +7,8 @@ short bio </br>
 <br>
 
 different links:
--   <a href="https://github.com/404-MotzeyNotFound/aboutme/blob/main/contact.md"> contact me here </a>
--   <a href="https://github.com/404-MotzeyNotFound/aboutme/blob/main/social.md"> social media </a>
--   <a href="https://github.com/404-MotzeyNotFound/aboutme/blob/main/gaming.md"> gaming stuff </a>
--   <a href="https://my.bio/motzey"> collective link gaming identity </a>
--   <a href="https;//my.bio/mottsui"> collective link otaku identity </a>
+-   <a href="https://github.com/mottsui-senpai/aboutme/blob/main/contact.md"> contact me here </a>
+-   <a href="https://github.com/mottsui-senpai/aboutme/blob/main/social.md"> social media </a>
+-   <a href="https://github.com/mottsui-senpai/aboutme/blob/main/gaming.md"> gaming stuff </a>
+-   <a href="https://my.bio/mottsui-senpai"> collective link gaming identity </a>
 <br>
