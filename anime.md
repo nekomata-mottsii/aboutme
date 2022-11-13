@@ -18,14 +18,14 @@ estimated watchtime: 28.2 days
   <li>この素晴らしい世界に祝福を！ <i>(Konosuba)</i></li>
   <li>中二病でも恋がしたい! <i>(Chuunibyou demo Koi ga Shitai!)</i></li>
 </ol>
-<h3>Characters (games and anime) </h3>
-<ol>
-  <li>時崎狂三 <i>(Tokisaki, Kurumi)</i> [Date A Live]</li>
+<h3>Characters (game) </h3>
+<ul>
   <li>甘雨 <i>(Ganyu)</i> [Genshin Impact]</li>
   <li>刻晴 <i>(Keqing)</i> [Genshin Impact]</li>
   <li>長野原宵宮 <i>(Naganohara, Yomiya)</i> [Genshin Impact]</li>
-  <li>八重神子 <i>(Yae Miko / Guuji Yae)</i> [Genshin Impact]</li>
-</ol>
+  <li>胡桃 <i>(Hu Tao)</i> [Genshin Impact]</li>
+  <li>八重神子 <i>(Yae Miko / Guuji Yae)</i> [Genshin Impact]</li> </br> <i>踏んでくれ、モミー八重</i><b>♡</b>
+</ul>
 <h1> Watchlist </h1>
   <div class="container">
     <a href="https://kitsu.io/users/mottsui/library">
