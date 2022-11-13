@@ -1,5 +1,5 @@
 list is updated here and then <br>
-last update on Fri, Sep 23 2022 at 03:16 PM  <br>
+last update on Mon, Nov 14 2022 at 12:22 AM  <br>
 
 <h1> basic stuff </h1>
 estimated watchtime: 28.2 days
@@ -18,13 +18,13 @@ estimated watchtime: 28.2 days
   <li>この素晴らしい世界に祝福を！ <i>(Konosuba)</i></li>
   <li>中二病でも恋がしたい! <i>(Chuunibyou demo Koi ga Shitai!)</i></li>
 </ol>
-<h3>Characters (game) </h3>
+<h3>Characters (all from <i>Genshin Impact</i>) </h3>
 <ul>
-  <li>甘雨 <i>(Ganyu)</i> [Genshin Impact]</li>
-  <li>刻晴 <i>(Keqing)</i> [Genshin Impact]</li>
-  <li>長野原宵宮 <i>(Naganohara, Yomiya)</i> [Genshin Impact]</li>
-  <li>胡桃 <i>(Hu Tao)</i> [Genshin Impact]</li>
-  <li>八重神子 <i>(Yae Miko / Guuji Yae)</i> [Genshin Impact]</li> 
+  <li>甘雨 <i>(Ganyu)</i></li>
+  <li>刻晴 <i>(Keqing)</i></li>
+  <li>長野原宵宮 <i>(Naganohara, Yomiya)</i></li>
+  <li>胡桃 <i>(Hu Tao)</i></li>
+  <li>八重神子 <i>(Yae Miko / Guuji Yae)</i></li> 
   踏んでくれ、モミー八重 ♡</b>
 </ul>
 <h1> Watchlist </h1>
