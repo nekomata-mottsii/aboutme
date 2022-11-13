@@ -5,9 +5,9 @@ last update on Fri, Sep 23 2022 at 03:16 PM  <br>
 estimated watchtime: 28.2 days
 <h3> top 3 genres </h3>
   <ol>
-    <li>Comedy (ca. 60%)</li>
+    <li>Comedy (ca. 59%)</li>
     <li>Romance (ca. 48%)</li>
-    <li>Action (ca. 29%)</li>
+    <li>Action + Harem (ca. 28% each)</li>
   </ol>
 <h1>Top 5s</h1>
 <h3>Animes</h3>
@@ -25,7 +25,7 @@ estimated watchtime: 28.2 days
   <li>長野原宵宮 <i>(Naganohara, Yomiya)</i> [Genshin Impact]</li>
   <li>胡桃 <i>(Hu Tao)</i> [Genshin Impact]</li>
   <li>八重神子 <i>(Yae Miko / Guuji Yae)</i> [Genshin Impact]</li> 
-  <i>踏んでくれ、モミー八重</i><b>♡</b>
+  踏んでくれ、モミー八重 ♡</b>
 </ul>
 <h1> Watchlist </h1>
   <div class="container">
