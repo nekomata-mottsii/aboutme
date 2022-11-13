@@ -24,7 +24,8 @@ estimated watchtime: 28.2 days
   <li>刻晴 <i>(Keqing)</i> [Genshin Impact]</li>
   <li>長野原宵宮 <i>(Naganohara, Yomiya)</i> [Genshin Impact]</li>
   <li>胡桃 <i>(Hu Tao)</i> [Genshin Impact]</li>
-  <li>八重神子 <i>(Yae Miko / Guuji Yae)</i> [Genshin Impact]</li> </br> <i>踏んでくれ、モミー八重</i><b>♡</b>
+  <li>八重神子 <i>(Yae Miko / Guuji Yae)</i> [Genshin Impact]</li> 
+  <i>踏んでくれ、モミー八重</i><b>♡</b>
 </ul>
 <h1> Watchlist </h1>
   <div class="container">
