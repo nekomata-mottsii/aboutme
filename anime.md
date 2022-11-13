@@ -24,7 +24,7 @@ estimated watchtime: 28.2 days
   <li>甘雨 <i>(Ganyu)</i> [Genshin Impact]</li>
   <li>刻晴 <i>(Keqing)</i> [Genshin Impact]</li>
   <li>長野原宵宮 <i>(Naganohara, Yomiya)</i> [Genshin Impact]</li>
-  <li>さえ <i>(Sae)</i> [Twin Star Exorcists]</li>
+  <li>八重神子 <i>(Yae Miko / Guuji Yae)</i> [Genshin Impact]</li>
 </ol>
 <h1> Watchlist </h1>
   <div class="container">
