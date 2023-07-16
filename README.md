@@ -1,6 +1,5 @@
-こんにちわ、モッツイです。 </br>
 short bio </br>
--   19 yo, male, he/him
+-   20 yo, male, he/him
 -   GER/ENG/JA
 -   playstation gamer: mottsui-senpai
 -   anime enjoyer
