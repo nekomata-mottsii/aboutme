@@ -23,7 +23,7 @@ estimated watchtime: 45.6 days (1.5 months)
   <li>甘雨 <i>(Ganyu/Genshin Impact)</i></li>
   <li>香菱 <i>(Xiangling/Genshin Impact)</i></li>
   <li>胡桃 <i>(Hu Tao/Genshin Impact)</i></li>
-  <li>慶野七罪 <i>(Kyouno Natsumi/Date A Live)</i><</li>
+  <li>慶野七罪 <i>(Kyouno Natsumi/Date A Live)</i></li>
   <li>宝鐘マリン <i>(Houshou Marine/Hololive Fantasy)</i></li>
 </ul>
 <h1> Watchlist </h1>
