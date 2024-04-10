@@ -15,17 +15,18 @@ estimated watchtime: 51.7 days (1.7 months)
   <li>押しの子 <i>(Oshi no Ko/My Star)</i></li>
   <li>双星の陰陽師 <i>(Twin Star Exorcists)</i></li>
   <li>デート・ア・ライブ <i>(Date A Live)</i></li>
-  <li>君は放課後インソムニア <i>(Imsoniacs After School)</i></li>>
+  <li>君は放課後インソムニア <i>(Imsoniacs After School)</i></li>
   <li>トニカクカワイイ　<i>(Tonikaku Kawaii)</i></li>
   <li>この素晴らしい世界に祝福を！ <i>(Konosuba!)</i></li>
   <li>中二病でも恋がしたい！ <i>(Chuunibyou)</i></li>
   <li>黒子のバスケット <i>(Kurok's Basketball)</i></li>
 </ol>
-<h3>#5 Characters</h3>
+<h3>#6 Characters</h3>
 <ul>
   <li>宝鐘マリン <i>(Houshou Marine/Hololive Fantasy)</i></li>
   <li>小鳥遊キアラ <i>(Takanashi Kiara/Hololive English - Myth)</i> </li>
   <li>慶野七罪 <i>(Kyouno Natsumi/Date A Live)</i></li>
+  <li>星野アイ <i>(Hoshino Ai/Oshi no Ko)</i></li>
   <li>甘雨 <i>(Ganyu/Genshin Impact)</i></li>
   <li>胡桃 <i>(Hu Tao/Genshin Impact)</i></li>
 </ul>
