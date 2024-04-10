@@ -1,6 +1,6 @@
 I mainly play on PlayStation but also have accounts to most of the other avaiable platforms:
 - PSN         nekomata-mottsii 
-- XBL         nekomata mottsi ( mottsii#
+- XBL         nekomata mottsi (mottsii#9239)
 - Steam       /id/nekomata-mottsii/
 - EpicGames   nekomata-mottsii
 - UbiClub     nekomata-mottsii 
