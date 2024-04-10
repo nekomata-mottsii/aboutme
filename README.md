@@ -1,13 +1,13 @@
 short bio </br>
 -   20 yo, male, he/him
 -   GER/ENG/JA
--   playstation gamer: mottsui-senpai
+-   playstation gamer: nekomata-mottsii 
 -   anime enjoyer
 <br>
 
 different links:
--   <a href="https://github.com/mottsui-senpai/aboutme/blob/main/contact.md"> contact me here </a>
--   <a href="https://github.com/mottsui-senpai/aboutme/blob/main/social.md"> social media </a>
--   <a href="https://github.com/mottsui-senpai/aboutme/blob/main/gaming.md"> gaming stuff </a>
--   <a href="https://my.bio/mottsui-senpai"> more social links </a>
+-   <a href="https://github.com/nekomata-mottsii/aboutme/blob/main/contact.md"> contact me here </a>
+-   <a href="https://github.com/nekomata-mottsii/aboutme/blob/main/social.md"> social media </a>
+-   <a href="https://github.com/nekomata-mottsii/aboutme/blob/main/gaming.md"> gaming stuff </a>
+-   <a href="https://my.bio/nekomata-mottsii"> more social links </a>
 <br>
