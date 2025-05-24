@@ -1,5 +1,5 @@
 short bio </br>
--   21 yo, male, he/him
+-   22 yo, male, he/him
 -   GER/ENG
 -   playstation gamer: nekomata-mottsii 
 -   anime enjoyer
