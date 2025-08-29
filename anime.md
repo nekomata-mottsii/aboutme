@@ -31,7 +31,7 @@ estimated watchtime: 51.7 days (1.7 months)
   </li>
   <li>
     君は放課後インソムニア <br/>
-    Kimi wa hōkago insomunia <sub>(rōmaji)</sub><br/>
+    kimi wa hōkago insomunia <sub>(rōmaji)</sub><br/>
     Imsoniacs After School <sub>(English)</sub>
   </li>
   <li>
@@ -39,9 +39,21 @@ estimated watchtime: 51.7 days (1.7 months)
     tonikaku kawaii <sub>(rōmaji)</sub><br/>
     Tonikawa <sub>(English)</sub>
   </li>
-  <li>この素晴らしい世界に祝福を！ <i>(Konosuba!)</i></li>
-  <li>中二病でも恋がしたい！ <i>(Chuunibyou)</i></li>
-  <li>黒子のバスケット <i>(Kurok's Basketball)</i></li>
+  <li>
+    この素晴らしい世界に祝福を！ <br/>
+    kono subarashī sekai ni shukufuku o! <sub>(rōmaji)</sub><br/.
+    Konosuba!<sub>(English)</sub>
+  </li>
+  <li>
+    中二病でも恋がしたい！ <br/>
+    chūnibyō demo koi ga shitai! <sub>(rōmaji)</sub><br/>
+    Chuunibyou <sub>(English)</sub>
+  </li>
+  <li>
+    黒子のバスケット
+    kuroko no basketto <sub>(rōmaji)</sub><br/>
+    Kuroko's Basketball <sub>(English)</sub>
+  </li>
 </ol>
 <hr/>
 
