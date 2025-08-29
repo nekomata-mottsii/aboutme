@@ -1,5 +1,5 @@
-list is updated here and then <br>
-last update on Fri, Aug 29 2025 at 12:37 PM GMT+3 (EEST) <br>
+list is updated here and then <br/>
+last update on Fri, Aug 29 2025 at 12:37 PM GMT+3 (EEST) <br/>
 
 <h1> basic stuff </h1>
 estimated watchtime: 51.7 days (1.7 months)
