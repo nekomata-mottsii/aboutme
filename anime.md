@@ -18,7 +18,7 @@ estimated watchtime: 51.7 days (1.7 months)
   <li>
     <ruby>
       <rb>押</rb><rt>お</rt>
-      <rb>しの</rb>
+      <rb>しの</rb><rt></rt>
       <rb>子</rb><rt>こ</rt>
     </ruby><br/>
     oshi no ko (in rōmaji)<br/>
