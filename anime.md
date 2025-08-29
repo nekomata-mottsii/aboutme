@@ -15,7 +15,8 @@ estimated watchtime: 51.7 days (1.7 months)
 
 <h3>top 8 animes</h3>
 <ol>
-  <li>押しの子 <br/>
+  <li>
+    押しの子 <br/>
     oshi no ko <sub>(rōmaji)</sub><br/>
     My Star <sub>(English)</sub>
   </li>
@@ -62,7 +63,7 @@ estimated watchtime: 51.7 days (1.7 months)
 
 <ol>
   <li>
-    <ruby>宝<rt>ほう</rt></ruby><ruby>鐘<rt>しょう</rt></ruby>マリン <sub>(Japanese Kanji)</sub> <br/>
+    <ruby>宝<rt>ほう</rt></ruby><ruby>鐘<rt>しょう</rt></ruby>マリン<br/>
     Houshou Marine <sub>(English)</sub><br/>
     Hololive Fantasy <sub>(Virtual YouTuber)</sub>
   </li>
@@ -72,7 +73,7 @@ estimated watchtime: 51.7 days (1.7 months)
     Zenless Zone Zero <sub>(Game)</sub>
   </li>
   <li>
-    浮浪柚葉 <br/>
+    <ruby>浮<rt>うき</rt></ruby><ruby>浪<rt>なみ</rt></ruby><ruby>柚<rt>ゆず</rt></ruby><ruby>葉<rt>は</rt></ruby> <br/>
     Ukinami Yuzuha <br/>
     Zenless Zone Zero <sub>(Game)</sub>
   </li>
