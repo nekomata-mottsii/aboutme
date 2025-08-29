@@ -1,7 +1,9 @@
 last update: <br/> Fri, Aug 29 2025 at 12:37 PM <sub>GMT+3 (EEST)</sub><br/><hr/>
 
-<h1> basic stuff </h1><hr/>
-this is an overview of my anime watchtime and favorite animes and characters (anime and games).
+<h2> intro </h2>
+this is an overview of my anime watchtime and favorite animes and characters (anime and games). Also there's my watchlist in the end.
+<hr/>
+
 estimated watchtime: 51.7 days (1.7 months)
 <h3> top 3 genres </h3>
   <ol>
@@ -11,7 +13,7 @@ estimated watchtime: 51.7 days (1.7 months)
   </ol>
 <hr/>
 
-<h3>#8 Animes</h3>
+<h3>top 8 animes</h3>
 <ol>
   <li>押しの子 <i>(Oshi no Ko/My Star)</i></li>
   <li>双星の陰陽師 <i>(Twin Star Exorcists)</i></li>
@@ -22,6 +24,8 @@ estimated watchtime: 51.7 days (1.7 months)
   <li>中二病でも恋がしたい！ <i>(Chuunibyou)</i></li>
   <li>黒子のバスケット <i>(Kurok's Basketball)</i></li>
 </ol>
+<hr/>
+
 <h3>#7 Characters</h3><sup>(Anime and Games)</sup>
 <ol>
   <li>宝鐘マリン <i>(Houshou Marine/Hololive Fantasy)</i></li>
