@@ -18,8 +18,8 @@ explanation:
 <ul>
 <li>
 Japanese furigana, e.g. <ruby><rb>日</rb><rt>に</rt><rb>本</rb><rt>ほん</rt></ruby><br/>
-Japanese roman letters (rōmaji)<br/>
-English Translation<br/>
+Japanese rōmaji, e.g. nihon<br/>
+English Translation, e.g. Japan<br/>
 </li>
 </ul>
 
