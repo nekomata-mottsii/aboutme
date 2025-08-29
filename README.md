@@ -1,7 +1,7 @@
 short bio </br>
--   22 yo, male, he/him
+-   22 y/o, male, he/him
 -   GER/ENG
--   playstation gamer: nekomata-mottsii 
+-   PlayStation gamer: <a href="https://psn.motzey.com"> nekomata-mottsii</a> 
 <br/>
 
 different links:
