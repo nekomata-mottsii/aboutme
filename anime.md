@@ -1,4 +1,4 @@
-last update: <br/> Fri, Aug 29 2025 at 04:33 PM <sub>GMT+3<ruby>
+last update: <br/> Fri, Aug 29 2025 at 04:57 PM <sub>GMT+3<ruby>
 
 <h3> intro </h3>
 this is an overview of my anime watchtime and favorite animes and my favorite vtubers and anime/game characters). Also there's my watchlist in the end.
@@ -16,14 +16,25 @@ estimated watchtime: 51.7 days (1.7 months)
 <h3>top 8 animes</h3>
 <ol>
   <li>
-    押しの子 <br/>
-    oshi no ko <sub>(rōmaji)</sub><br/>
-    My Star <sub>(English)</sub>
+    <ruby>
+      <rb>押</rb><rt>お</rt>
+      <rb>しの</rb>
+      <rb>子</rb><rt>こ</rt>
+    </ruby><br/>
+    oshi no ko (in rōmaji)<br/>
+    My Star (in English)
   </li>
   <li>
-    双星の陰陽師 <br/>
-    futaboshi no in'yōshi <sub>(rōmaji)</sub><br/>
-    Twin Star Exorcists <sub>(English)</sub>
+    <ruby>
+      <rb>双</rb><rt>ふた</rt>
+      <rb>星</rb><rt>ぼし</rt>
+      <rb>の</rb>
+      <rb>陰</rb><rt>いん</rt>
+      <rb>陽</rb><rt>よう</rt>
+      <rb>師</rb><rt>し</rt> 
+    </ruby><br/>
+    futaboshi no in'yōshi (in rōmaji)<br/>
+    Twin Star Exorcists (in English)
   </li>
   <li>
     デート・ア・ライブ <br/>
@@ -31,29 +42,54 @@ estimated watchtime: 51.7 days (1.7 months)
     Date A Live <sub>(English)</sub>
   </li>
   <li>
-    君は放課後インソムニア <br/>
-    kimi wa hōkago insomunia <sub>(rōmaji)</sub><br/>
-    Imsoniacs After School <sub>(English)</sub>
+    <ruby>
+      <rb>君</rb><rt>きみ</rt>
+      <rb>は</rb>
+      <rb>放課後</rb><rt>ほうかご</rt>
+      <rb>インソムニア</rb>
+    </ruby><br/>
+    kimi wa hōkago insomunia (rōmaji)<br/>
+    Imsoniacs After School (English)
   </li>
   <li>
     トニカクカワイイ　<br/>
-    tonikaku kawaii <sub>(rōmaji)</sub><br/>
-    Tonikawa <sub>(English)</sub>
+    tonikaku kawaii (rōmaji)<br/>
+    Tonikawa (English)
   </li>
   <li>
-    この素晴らしい世界に祝福を！ <br/>
-    kono subarashī sekai ni shukufuku o! <sub>(rōmaji)</sub><br/>
-    Konosuba!<sub>(English)</sub>
+    <ruby>
+      <rb>この</rb>
+      <rb>素晴</rb></rb><rt>すば</rt>
+      <rb>らしい</rb>
+      <rb>世界</rb></rb><rt>せかい</rt>
+      <rb>に</rb>
+      <rb>祝</rb><rt>しゅく</rt>
+      <rb>福</rb><rt>ふく</rt>
+      <rb>を！</rb> 
+    </ruby><br/>
+    kono subarashī sekai ni shukufuku o! (rōmaji) <br/>
+    Konosuba!(English)
   </li>
   <li>
-    中二病でも恋がしたい！ <br/>
-    chūnibyō demo koi ga shitai! <sub>(rōmaji)</sub><br/>
-    Chuunibyou <sub>(English)</sub>
+    <ruby>
+      <rb>中</rb><rt>ちゅう</rt>
+      <rb>二</rb><rt>に</rt>
+      <rb>病</rb><rt>びょう</rt>
+      <rb>でも</rb>
+      <rb>恋</rb><rt>こい</rt>
+      <rb>がしたい！</rb> 
+    </ruby><br/>
+    chūnibyō demo koi ga shitai! (rōmaji)<br/>
+    Chuunibyou (English)
   </li>
   <li>
-    黒子のバスケット <br/>
-    kuroko no basketto <sub>(rōmaji)</sub><br/>
-    Kuroko's Basketball <sub>(English)</sub>
+    <ruby>
+      <rb>黒</rb><rt>くろ</rt>
+      <rb>子</rb><rt>こ</rt>
+      <rb>のバスケット</rb> 
+    </ruby><br/>
+    kuroko no basuketto (rōmaji)<br/>
+    Kuroko's Basketball (English)
   </li>
 </ol>
 <hr/>
