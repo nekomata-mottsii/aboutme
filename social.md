@@ -3,6 +3,7 @@ find me on these social media:
 - <a href="https://twt.motzey.com"> X (formerly Twitter) </a>
 - <a href="https://ttv.motzey.com"> Twitch </a>
 - <a href="https://ytb.motzey.com"> YouTube </a>
-<br>
+- <a href="https://motzey.com/socials"> more socials </a>
+<br/>
 
 <a href="https://github.com/nekomata-mottsii"> back to main page </a>
