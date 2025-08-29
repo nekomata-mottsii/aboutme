@@ -16,7 +16,7 @@ estimated watchtime: 51.7 days (1.7 months)
 <h3>top 8 animes</h3>
 <ol>
   <li>押しの子 <br/>
-    <font size=8px>
+    <font size=50px>
       oshi no ko <sub>(rōmaji)</sub><br/>
       My Star <sub>(English)</sub>
     </font>
