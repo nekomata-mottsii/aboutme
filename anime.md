@@ -57,13 +57,13 @@ estimated watchtime: 51.7 days (1.7 months)
 </ol>
 <hr/>
 
-<h3>top 10 characters</h3><br/>
+<h3>top 10 characters</h3>
 (VTuber, Games & Anime)<br/>
 
 <ol>
   <li>
-    宝鐘マリン <br/>
-    Houshou Marine <br/>
+    <ruby>宝<rt>ほう</rt></ruby><ruby>鐘<rt>しょう</rt></ruby>マリン <sub>(Japanese Kanji)</sub> <br/>
+    Houshou Marine <sub>(English)</sub><br/>
     Hololive Fantasy <sub>(Virtual YouTuber)</sub>
   </li>
   <li>
