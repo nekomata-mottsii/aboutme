@@ -21,16 +21,17 @@ estimated watchtime: 51.7 days (1.7 months)
   <li>中二病でも恋がしたい！ <i>(Chuunibyou)</i></li>
   <li>黒子のバスケット <i>(Kurok's Basketball)</i></li>
 </ol>
-<h3>#6 Characters</h3><hyp>(Anime and Games)</hyp>
-<ul>
+<h3>#7 Characters</h3><sup>(Anime and Games)</sup>
+<ol>
   <li>宝鐘マリン <i>(Houshou Marine/Hololive Fantasy)</i></li>
-  <li>小鳥遊キアラ <i>(Takanashi Kiara/Hololive English - Myth)</i> </li>
-  <li>慶野七罪 <i>(Kyouno Natsumi/Date A Live)</i></li>
-  <li>星野アイ <i>(Hoshino Ai/Oshi no Ko)</i></li>
   <li>ビビアン・バンシー <i>(Vivian Banshee/Zenless Zone Zero)</i></li>
   <li>浮浪柚葉 <i>(Ukinami Yuzuha/Zenless Zone Zero)</i></li>
+  <li>小鳥遊キアラ <i>(Takanashi Kiara/Hololive English - Myth)</i> </li>
+  <li>星野アイ <i>(Hoshino Ai/Oshi no Ko)</i></li>
+  <li>慶野七罪 <i>(Kyouno Natsumi/Date A Live)</i></li>
+  <li>甘雨 <i>(Ganyu/Genshin Impact)</i></li>
 
-</ul>
+</ol>
 <h1> Watchlist </h1>
   <div class="container">
     <a href="https://kitsu.io/users/nekomata_mottsii/library">
