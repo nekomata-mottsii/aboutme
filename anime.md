@@ -50,24 +50,51 @@ estimated watchtime: 51.7 days (1.7 months)
     Chuunibyou <sub>(English)</sub>
   </li>
   <li>
-    黒子のバスケット
+    黒子のバスケット <br/>
     kuroko no basketto <sub>(rōmaji)</sub><br/>
     Kuroko's Basketball <sub>(English)</sub>
   </li>
 </ol>
 <hr/>
 
-<h3>top 7 characters</h3><br/>
-<sup>(Anime and Games)</sup><br/>
+<h3>top 8 characters</h3><br/>
+(VTuber, Games & Anime)<br/>
 
 <ol>
-  <li>宝鐘マリン <i>(Houshou Marine/Hololive Fantasy)</i></li>
-  <li>ビビアン・バンシー <i>(Vivian Banshee/Zenless Zone Zero)</i></li>
-  <li>浮浪柚葉 <i>(Ukinami Yuzuha/Zenless Zone Zero)</i></li>
-  <li>小鳥遊キアラ <i>(Takanashi Kiara/Hololive English - Myth)</i> </li>
-  <li>星野アイ <i>(Hoshino Ai/Oshi no Ko)</i></li>
-  <li>慶野七罪 <i>(Kyouno Natsumi/Date A Live)</i></li>
-  <li>甘雨 <i>(Ganyu/Genshin Impact)</i></li>
+  <li>
+    宝鐘マリン <br/>
+    Houshou Marine <br/>
+    Hololive Fantasy <sub>(Virtual YouTuber)</sub>
+  </li>
+  <li>
+    ビビアン・バンシー <br/>
+    Vivian Banshee <br/>
+    Zenless Zone Zero <sub>(Game)</sub>
+  </li>
+  <li>
+    浮浪柚葉 <br/>
+    Ukinami Yuzuha <br/>
+    Zenless Zone Zero <sub>(Game)</sub>
+  </li>
+  <li>
+    小鳥遊キアラ <br/>
+    Takanashi Kiara <br/>
+    Hololive English - Myth <sub>(Virtual YouTuber)</sub>
+  </li>
+  <li>
+    星野アイ <br/>
+    Hoshino Ai <br/>
+    Oshi no Ko <sub>(Anime)</sub>
+  <li>
+    慶野七罪 <br/>
+    Kyouno Natsumi
+    Date A Live <sub>(Anime)</sub>
+  </li>
+  <li>
+    甘雨 <br/>
+    Ganyu <br/>
+    Genshin Impact <sub>(Gamea2)</sub>
+  </li>
 </ol>
 <hr/>
 
