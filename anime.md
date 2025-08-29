@@ -64,11 +64,11 @@ estimated watchtime: 51.7 days (1.7 months)
 <ol>
   <li>
     <ruby>
-      <rb>宝</rb>
-        <rt>ほう</rt>
-      <rb>鐘
-        <rt>しょう</rt>
-    </ruby>マリン<br/>
+      <rb>宝</rb><rt>ほう</rt>
+      <rb>鐘</rb><rt>しょう</rt>
+      <rb>マリン</rb>
+      <rp>【</rp><rt>ほうしょう・まりん</rt><rp>】</rp>
+    </ruby><br/>
     Houshou Marine <sub>(English)</sub><br/>
     Hololive Fantasy <sub>(Virtual YouTuber)</sub>
   </li>
@@ -78,22 +78,42 @@ estimated watchtime: 51.7 days (1.7 months)
     Zenless Zone Zero <sub>(Game)</sub>
   </li>
   <li>
-    <ruby>浮<rt>うき</rt></ruby><ruby>浪<rt>なみ</rt></ruby><ruby>柚<rt>ゆず</rt></ruby><ruby>葉<rt>は</rt></ruby> <br/>
+    <ruby>
+      <rb>浮</rb><rt>うき</rt>
+      <rb>浪</rb><rt>なみ</rt>
+      <rb>柚</rb><rt>ゆず</rt>
+      <rb>葉</rb><rt>は</rt>
+      <rp>【</rp><rt>うきなみ・ゆずは</rt><rp>】</rp>
+    </ruby><br/>
     Ukinami Yuzuha <br/>
     Zenless Zone Zero <sub>(Game)</sub>
   </li>
   <li>
-    小鳥遊キアラ <br/>
+    <ruby>
+      <rb>小鳥遊</rb><rt>たかなし</rt>
+      <rb>キアラ</rb> 
+      <rp>【</rp><rt>たかなし・きあら</rt><rp>】</rp>
+    </ruby><br/>
     Takanashi Kiara <br/>
     Hololive English - Myth <sub>(Virtual YouTuber)</sub>
   </li>
   <li>
-    星見雅 <br/>
+    <ruby>
+      <rb>星</rb><rt>ほし</rt>
+      <rb>見</rb><rt>み</rb>
+      <rb>雅</rb><rt>みやび</rb>
+      <rp>【</rp><rt>ほしみ・みやび</rt><rp>】</rp> 
+    </ruby><br/>
     Hoshimi Miyabi <br/>
     Zenless Zone Zero <sub>(Game)</sub>
   </li>
   <li>
-    星野アイ <br/>
+    <ruby>
+      <rb>星</rb><rt>ほし</rt>
+      <rb>野</rb><rt>の</rt>
+      <rb>アイ</rb> 
+      <rp>【</rp><rt>ほしの・あい</rt><rp>】</rp>
+    </ruby><br/>
     Hoshino Ai <br/>
     Oshi no Ko <sub>(Anime)</sub>
   <li>
