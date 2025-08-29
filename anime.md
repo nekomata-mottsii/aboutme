@@ -37,9 +37,10 @@ estimated watchtime: 51.7 days (1.7 months)
   <li>星野アイ <i>(Hoshino Ai/Oshi no Ko)</i></li>
   <li>慶野七罪 <i>(Kyouno Natsumi/Date A Live)</i></li>
   <li>甘雨 <i>(Ganyu/Genshin Impact)</i></li>
-
 </ol>
-<h1> Watchlist </h1>
+<hr/>
+
+<h3> Watchlist </h3>
   <div class="container">
     <a href="https://kitsu.io/users/nekomata_mottsii/library">
       <img src="https://c.tenor.com/geGFxXPcbfkAAAAS/chuunibyou-smug.gif" width="250" height="250" alt="test" class="image">
