@@ -18,7 +18,7 @@ estimated watchtime: 51.7 days (1.7 months)
   <li>
     <ruby>
       <rb>押</rb><rt>お</rt>
-      <rb>しの</rb><rt></rt>
+      <rb>しの</rb><rt> </rt>
       <rb>子</rb><rt>こ</rt>
     </ruby><br/>
     oshi no ko (in rōmaji)<br/>
@@ -28,7 +28,7 @@ estimated watchtime: 51.7 days (1.7 months)
     <ruby>
       <rb>双</rb><rt>ふた</rt>
       <rb>星</rb><rt>ぼし</rt>
-      <rb>の</rb>
+      <rb>の</rb><rt>　</rt>
       <rb>陰</rb><rt>いん</rt>
       <rb>陽</rb><rt>よう</rt>
       <rb>師</rb><rt>し</rt> 
@@ -44,9 +44,9 @@ estimated watchtime: 51.7 days (1.7 months)
   <li>
     <ruby>
       <rb>君</rb><rt>きみ</rt>
-      <rb>は</rb>
+      <rb>は</rb><rt> </rt>
       <rb>放課後</rb><rt>ほうかご</rt>
-      <rb>インソムニア</rb>
+      <rb>インソムニア</rb><rt>　</rt>
     </ruby><br/>
     kimi wa hōkago insomunia (rōmaji)<br/>
     Imsoniacs After School (English)
@@ -60,12 +60,12 @@ estimated watchtime: 51.7 days (1.7 months)
     <ruby>
       <rb>この</rb>
       <rb>素晴</rb></rb><rt>すば</rt>
-      <rb>らしい</rb>
+      <rb>らしい</rb><rt>　</rt>
       <rb>世界</rb></rb><rt>せかい</rt>
-      <rb>に</rb>
+      <rb>に</rb><rt>　</rt>
       <rb>祝</rb><rt>しゅく</rt>
       <rb>福</rb><rt>ふく</rt>
-      <rb>を！</rb> 
+      <rb>を！</rb><rt>　</rt>
     </ruby><br/>
     kono subarashī sekai ni shukufuku o! (rōmaji) <br/>
     Konosuba!(English)
@@ -75,9 +75,9 @@ estimated watchtime: 51.7 days (1.7 months)
       <rb>中</rb><rt>ちゅう</rt>
       <rb>二</rb><rt>に</rt>
       <rb>病</rb><rt>びょう</rt>
-      <rb>でも</rb>
+      <rb>でも</rb><rt>　</rt>
       <rb>恋</rb><rt>こい</rt>
-      <rb>がしたい！</rb> 
+      <rb>がしたい！</rb><rt>　</rt>
     </ruby><br/>
     chūnibyō demo koi ga shitai! (rōmaji)<br/>
     Chuunibyou (English)
@@ -86,7 +86,7 @@ estimated watchtime: 51.7 days (1.7 months)
     <ruby>
       <rb>黒</rb><rt>くろ</rt>
       <rb>子</rb><rt>こ</rt>
-      <rb>のバスケット</rb> 
+      <rb>のバスケット</rb><rt>　</rt>
     </ruby><br/>
     kuroko no basuketto (rōmaji)<br/>
     Kuroko's Basketball (English)
