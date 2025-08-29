@@ -1,9 +1,3 @@
-
-<style>
-  ruby + .fallback {
-   display:none;
- }
-</style
 last update: <br/> Fri, Aug 29 2025 at 01:01 PM <sub>GMT+3<ruby>
 
 <h3> intro </h3>
@@ -73,9 +67,7 @@ estimated watchtime: 51.7 days (1.7 months)
       <rb>宝</rb><rt>ほう</rt>
       <rb>鐘</rb><rt>しょう</rt>
       <rb>マリン</rb>
-    </ruby>
-    <span class="fallback">【ほうしょう・まりん】</span>
-<br/>
+    </ruby><br/>
     Houshou Marine <sub>(English)</sub><br/>
     Hololive Fantasy <sub>(Virtual YouTuber)</sub>
   </li>
