@@ -1,4 +1,10 @@
-last update: <br/> Fri, Aug 29 2025 at 01:01 PM <sub>GMT+3 (EEST)</sub><br/><hr/>
+
+<style>
+  ruby + .fallback {
+   display:none;
+ }
+</style
+last update: <br/> Fri, Aug 29 2025 at 01:01 PM <sub>GMT+3<ruby>
 
 <h3> intro </h3>
 this is an overview of my anime watchtime and favorite animes and characters (anime and games). Also there's my watchlist in the end.
@@ -67,8 +73,9 @@ estimated watchtime: 51.7 days (1.7 months)
       <rb>宝</rb><rt>ほう</rt>
       <rb>鐘</rb><rt>しょう</rt>
       <rb>マリン</rb>
-      <rp>【</rp><rt>ほうしょう・まりん</rt><rp>】</rp>
-    </ruby><br/>
+    </ruby>
+    <span class="fallback">【ほうしょう・まりん】</span>
+<br/>
     Houshou Marine <sub>(English)</sub><br/>
     Hololive Fantasy <sub>(Virtual YouTuber)</sub>
   </li>
