@@ -48,5 +48,6 @@ estimated watchtime: 51.7 days (1.7 months)
     </a>
   </div>
  click image to get sent to watchlist on kitsu
-  <h3/>
+  <h3/><hr/>
+
   <a href="https://github.com/nekomata_mottsii">go back to main page</a>
