@@ -1,7 +1,7 @@
-last update: <br/> Fri, Aug 29 2025 at 03:48 PM <sub>GMT+3<ruby>
+last update: <br/> Fri, Aug 29 2025 at 04:20 PM <sub>GMT+3<ruby>
 
 <h3> intro </h3>
-this is an overview of my anime watchtime and favorite animes and characters (anime and games). Also there's my watchlist in the end.
+this is an overview of my anime watchtime and favorite animes and my favorite vtubers and anime/game characters). Also there's my watchlist in the end.
 <hr/>
 
 estimated watchtime: 51.7 days (1.7 months)
