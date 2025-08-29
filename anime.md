@@ -21,7 +21,7 @@ Japanese Kanji/Kana (furigana version, small Kana above Kanjis)
 Japanese roman letters (rōmaji)
 English Translation
 </li>
-</ol>
+</ul>
 
 <ol>
 <li>
