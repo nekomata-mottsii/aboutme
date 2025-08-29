@@ -1,7 +1,7 @@
-list is updated here and then <br/>
 last update: <br/> Fri, Aug 29 2025 at 12:37 PM <sub>GMT+3 (EEST)</sub><br/><hr/>
 
-<h1> basic stuff </h1>
+<h1> basic stuff </h1><hr/>
+this is an overview of my anime watchtime and favorite animes and characters (anime and games).
 estimated watchtime: 51.7 days (1.7 months)
 <h3> top 3 genres </h3>
   <ol>
@@ -9,7 +9,8 @@ estimated watchtime: 51.7 days (1.7 months)
     <li>Romance (about 46%)</li>
     <li>Fantasy (about 30%)</li>
   </ol>
-<h1>Top Lists</h1>
+<hr/>
+
 <h3>#8 Animes</h3>
 <ol>
   <li>押しの子 <i>(Oshi no Ko/My Star)</i></li>
