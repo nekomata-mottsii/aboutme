@@ -146,7 +146,7 @@ estimated watchtime: 51.7 days (1.7 months)
   <li>
     <ruby>
       <rb>慶野</rb><rt>きょうの</rt>
-      <rb>七つみ</rb><rt>なつみ</rt>
+      <rb>七罪</rb><rt>なつみ</rt>
     </ruby><br/>
     Kyouno Natsumi <br/>
     Date A Live (Anime)
