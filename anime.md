@@ -1,4 +1,4 @@
-last update: <br/> Fri, Aug 29 2025 at 04:57 PM <sub>GMT+3<ruby>
+last update: <br/> Fri, Aug 29 2025 at 05:30 PM GMT+3
 
 <h3> intro </h3>
 this is an overview of my anime watchtime and favorite animes and my favorite vtubers and anime/game characters). Also there's my watchlist in the end.
