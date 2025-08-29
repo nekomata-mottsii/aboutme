@@ -1,4 +1,4 @@
-last update: <br/> Fri, Aug 29 2025 at 12:37 PM <sub>GMT+3 (EEST)</sub><br/><hr/>
+last update: <br/> Fri, Aug 29 2025 at 01:01 PM <sub>GMT+3 (EEST)</sub><br/><hr/>
 
 <h3> intro </h3>
 this is an overview of my anime watchtime and favorite animes and characters (anime and games). Also there's my watchlist in the end.
@@ -48,5 +48,5 @@ estimated watchtime: 51.7 days (1.7 months)
     </a>
   </div>
  click image to get sent to watchlist on kitsu
-  <h1></h1>
+  <h3/>
   <a href="https://github.com/nekomata_mottsii">go back to main page</a>
