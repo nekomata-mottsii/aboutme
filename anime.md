@@ -15,45 +15,36 @@ estimated watchtime: 51.7 days (1.7 months)
 
 <h3>top 8 animes</h3>
 <ol>
-  <li>
-    <ruby>
-      <rb>押</rb><rt>お</rt>
-      <rb>しの</rb><rt> </rt>
-      <rb>子</rb><rt>こ</rt>
-    </ruby><br/>
-    oshi no ko (in rōmaji)<br/>
-    My Star (in English)
-  </li>
-  <li>
-    <ruby>
-      <rb>双星</rb><rt>ふたぼし</rt>
-      <rb>の</rb><rt>　</rt>
-      <rb>陰陽師</rb><rt>いんようし</rt>
-    </ruby><br/>
-    futaboshi no in'yōshi (in rōmaji)<br/>
-    Twin Star Exorcists (in English)
-  </li>
-  <li>
-    デート・ア・ライブ <br/>
-    dēto a raibu (in rōmaji)<br/>
-    Date A Live (English)
-  </li>
-  <li>
-    <ruby>
-      <rb>君</rb><rt>きみ</rt>
-      <rb>は</rb><rt></rt>
-      <rb>放課後</rb><rt>ほうかご</rt>
-      <rb>インソムニア</rb><rt></rt>
-    </ruby><br/>
-    kimi wa hōkago insomunia (rōmaji)<br/>
-    Imsoniacs After School (English)
-  </li>
-  <li>
-    トニカクカワイイ　<br/>
-    tonikaku kawaii (rōmaji)<br/>
-    Tonikawa (English)
-  </li>
-  <li>
+<li>
+<ruby>
+<rb>押</rb><rt>お</rt><rb>しの</rb><rt></rt><rb>子</rb><rt>こ</rt></ruby><br/>
+oshi no ko (in rōmaji)<br/>
+My Star (in English)
+</li>
+<li>
+<ruby>
+<rb>双星</rb><rt>ふたぼし</rt><rb>の</rb><rt></rt><rb>陰陽師</rb><rt>いんようし</rt></ruby><br/>
+futaboshi no in'yōshi (in rōmaji)<br/>
+Twin Star Exorcists (in English)
+</li>
+<li>
+デート・ア・ライブ <br/>
+dēto a raibu (in rōmaji)<br/>
+Date A Live (English)
+</li>
+<li>
+<ruby>
+<rb>君</rb><rt>きみ</rt><rb>は</rb><rt></rt><rb>放課後</rb><rt>ほうかご</rt><rb>インソムニア</rb><rt></rt>
+</ruby><br/>
+kimi wa hōkago insomunia (rōmaji)<br/>
+Imsoniacs After School (English)
+</li>
+<li>
+トニカクカワイイ　<br/>
+tonikaku kawaii (rōmaji)<br/>
+Tonikawa (English)
+</li>
+<li>
 <ruby>
 <rb>この</rb><rt></rt><rb>素晴</rb></rb><rt>すば</rt>
 <rb>らしい</rb><rt></rt><rb>世界</rb></rb><rt>せかい</rt><rb>に</rb><rt></rt><rb>祝福</rb><rt>しゅくふく</rt><rb>を！</rb><rt></rt>
@@ -70,14 +61,12 @@ chūnibyō demo koi ga shitai! (rōmaji)<br/>
 Chuunibyou (English)
 </li>
 <li>
-    <ruby>
-      <rb>黒</rb><rt>くろ</rt>
-      <rb>子</rb><rt>こ</rt>
-      <rb>のバスケット</rb><rt>　</rt>
-    </ruby><br/>
-    kuroko no basuketto (rōmaji)<br/>
-    Kuroko's Basketball (English)
-  </li>
+<ruby>
+<rb>黒</rb><rt>くろ</rt><rb>子</rb><rt>こ</rt><rb>のバスケット</rb><rt></rt>
+</ruby><br/>
+kuroko no basuketto (rōmaji)<br/>
+Kuroko's Basketball (English)
+</li>
 </ol>
 <hr/>
 
