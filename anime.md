@@ -17,9 +17,9 @@ estimated watchtime: 51.7 days (1.7 months)
 explanation:
 <ul>
 <li>
-Japanese Kanji/Kana (furigana version, small Kana above Kanjis)
-Japanese roman letters (rōmaji)
-English Translation
+Japanese furigana (small Kana above Kanjis)<br/>
+Japanese roman letters (rōmaji)<br/>
+English Translation<br/>
 </li>
 </ul>
 
