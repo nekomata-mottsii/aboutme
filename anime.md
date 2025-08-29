@@ -21,7 +21,7 @@ estimated watchtime: 51.7 days (1.7 months)
   <li>中二病でも恋がしたい！ <i>(Chuunibyou)</i></li>
   <li>黒子のバスケット <i>(Kurok's Basketball)</i></li>
 </ol>
-<h3>#6 Characters <sub>(Anime and Games)</sub></h3>
+<h3>#6 Characters</h3><sub>(Anime and Games)</sub>
 <ul>
   <li>宝鐘マリン <i>(Houshou Marine/Hololive Fantasy)</i></li>
   <li>小鳥遊キアラ <i>(Takanashi Kiara/Hololive English - Myth)</i> </li>
