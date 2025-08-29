@@ -26,12 +26,9 @@ estimated watchtime: 51.7 days (1.7 months)
   </li>
   <li>
     <ruby>
-      <rb>双</rb><rt>ふた</rt>
-      <rb>星</rb><rt>ぼし</rt>
+      <rb>双星</rb><rt>ふたぼし</rt>
       <rb>の</rb><rt>　</rt>
-      <rb>陰</rb><rt>いん</rt>
-      <rb>陽</rb><rt>よう</rt>
-      <rb>師</rb><rt>し</rt> 
+      <rb>陰陽師</rb><rt>いんようし</rt>
     </ruby><br/>
     futaboshi no in'yōshi (in rōmaji)<br/>
     Twin Star Exorcists (in English)
@@ -63,8 +60,7 @@ estimated watchtime: 51.7 days (1.7 months)
       <rb>らしい</rb><rt>　</rt>
       <rb>世界</rb></rb><rt>せかい</rt>
       <rb>に</rb><rt>　</rt>
-      <rb>祝</rb><rt>しゅく</rt>
-      <rb>福</rb><rt>ふく</rt>
+      <rb>祝福</rb><rt>しゅくふく</rt>
       <rb>を！</rb><rt>　</rt>
     </ruby><br/>
     kono subarashī sekai ni shukufuku o! (rōmaji) <br/>
@@ -72,9 +68,7 @@ estimated watchtime: 51.7 days (1.7 months)
   </li>
   <li>
     <ruby>
-      <rb>中</rb><rt>ちゅう</rt>
-      <rb>二</rb><rt>に</rt>
-      <rb>病</rb><rt>びょう</rt>
+      <rb>中二病</rb><rt>ちゅうにびょう</rt>
       <rb>でも</rb><rt>　</rt>
       <rb>恋</rb><rt>こい</rt>
       <rb>がしたい！</rb><rt>　</rt>
@@ -100,8 +94,7 @@ estimated watchtime: 51.7 days (1.7 months)
 <ol>
   <li>
     <ruby>
-      <rb>宝</rb><rt>ほう</rt>
-      <rb>鐘</rb><rt>しょう</rt>
+      <rb>宝鐘</rb><rt>ほうしょう</rt>
       <rb>マリン</rb>
     </ruby><br/>
     Houshou Marine <br/>
@@ -114,10 +107,8 @@ estimated watchtime: 51.7 days (1.7 months)
   </li>
   <li>
     <ruby>
-      <rb>浮</rb><rt>うき</rt>
-      <rb>浪</rb><rt>なみ</rt>
-      <rb>柚</rb><rt>ゆず</rt>
-      <rb>葉</rb><rt>は</rt>
+      <rb>浮浪</rb><rt>うきなみ</rt>
+      <rb>柚葉</rb><rt>ゆずは</rt>
     </ruby><br/>
     Ukinami Yuzuha <br/>
     Zenless Zone Zero (Game)
@@ -132,8 +123,7 @@ estimated watchtime: 51.7 days (1.7 months)
   </li>
   <li>
     <ruby>
-      <rb>星</rb><rt>ほし</rt>
-      <rb>見</rb><rt>み</rb>
+      <rb>星見</rb><rt>ほしみ</rt>
       <rb>雅</rb><rt>みやび</rb>
     </ruby><br/>
     Hoshimi Miyabi <br/>
@@ -141,9 +131,8 @@ estimated watchtime: 51.7 days (1.7 months)
   </li>
   <li>
     <ruby>
-      <rb>星</rb><rt>ほし</rt>
-      <rb>野</rb><rt>の</rt>
-      <rb>アイ</rb>
+      <rb>星野</rb><rt>ほしの</rt>
+      <rb>アイ</rb><rt>　</rt>
     </ruby><br/>
     Hoshino Ai <br/>
     Oshi no Ko (Anime)
@@ -156,10 +145,8 @@ estimated watchtime: 51.7 days (1.7 months)
   </li>
   <li>
     <ruby>
-      <rb>慶</rb><rt>きょう</rt>
-      <rb>野</rb><rt>の</rt>
-      <rb>七</rb><rt>な</rt>
-      <rb>罪</rb><rt>つみ</rt> 
+      <rb>慶野</rb><rt>きょうの</rt>
+      <rb>七つみ</rb><rt>なつみ</rt>
     </ruby><br/>
     Kyouno Natsumi <br/>
     Date A Live (Anime)
