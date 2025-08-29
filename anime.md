@@ -63,16 +63,13 @@ kono subarashī sekai ni shukufuku o! (rōmaji) <br/>
 Konosuba!(English)
 </li>
 <li>
-    <ruby>
-      <rb>中二病</rb><rt>ちゅうにびょう</rt>
-      <rb>でも</rb><rt>　</rt>
-      <rb>恋</rb><rt>こい</rt>
-      <rb>がしたい！</rb><rt>　</rt>
-    </ruby><br/>
-    chūnibyō demo koi ga shitai! (rōmaji)<br/>
-    Chuunibyou (English)
-  </li>
-  <li>
+<ruby>
+<rb>中二病</rb><rt>ちゅうにびょう</rt><rb>でも</rb><rt>　</rt><rb>恋</rb><rt>こい</rt><rb>がしたい！</rb><rt></rt>
+</ruby><br/>
+chūnibyō demo koi ga shitai! (rōmaji)<br/>
+Chuunibyou (English)
+</li>
+<li>
     <ruby>
       <rb>黒</rb><rt>くろ</rt>
       <rb>子</rb><rt>こ</rt>
