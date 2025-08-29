@@ -13,7 +13,7 @@ estimated watchtime: 51.7 days (1.7 months)
   </ol>
 <hr/>
 
-context on how an entry in the anime list is built: <br/>
+context on how an entry in the anime list is built: <br//>
 <ruby><rb>日</rb><rt>に</rt><rb>本</rb><rt>ほん</rt></ruby> (Japanese furigana)<br/>
 nihon (Japanese rōmaji, how its read)<br/>
 Japan (English Translation)<br/>
