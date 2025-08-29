@@ -69,10 +69,8 @@ Kuroko's Basketball (English)
 </li>
 </ol>
 <hr/>
-
 <h3>top 10 characters</h3>
 (VTuber, Games & Anime)<br/>
-
 <ol>
 <li>
 <ruby>
