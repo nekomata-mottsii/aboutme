@@ -74,73 +74,66 @@ Kuroko's Basketball (English)
 (VTuber, Games & Anime)<br/>
 
 <ol>
-  <li>
-    <ruby>
-      <rb>宝鐘</rb><rt>ほうしょう</rt>
-      <rb>マリン</rb>
-    </ruby><br/>
-    Houshou Marine <br/>
-    Hololive Fantasy (VTuber)
-  </li>
-  <li>
-    ビビアン・バンシー <br/>
-    Vivian Banshee <br/>
-    Zenless Zone Zero (Game)
-  </li>
-  <li>
-    <ruby>
-      <rb>浮浪</rb><rt>うきなみ</rt>
-      <rb>柚葉</rb><rt>ゆずは</rt>
-    </ruby><br/>
-    Ukinami Yuzuha <br/>
-    Zenless Zone Zero (Game)
-  </li>
-  <li>
-    <ruby>
-      <rb>小鳥遊</rb><rt>たかなし</rt>
-      <rb>キアラ</rb>
-    </ruby><br/>
-    Takanashi Kiara <br/>
-    Hololive English - Myth (VTuber)
-  </li>
-  <li>
-    <ruby>
-      <rb>星見</rb><rt>ほしみ</rt>
-      <rb>雅</rb><rt>みやび</rb>
-    </ruby><br/>
-    Hoshimi Miyabi <br/>
-    Zenless Zone Zero (Game)
-  </li>
-  <li>
-    <ruby>
-      <rb>星野</rb><rt>ほしの</rt>
-      <rb>アイ</rb><rt>　</rt>
-    </ruby><br/>
-    Hoshino Ai <br/>
-    Oshi no Ko (Anime)
-  <li>
-    <ruby>
-      <rb>胡桃</rb><rt>フー・タオ</rt>
-    </ruby><br/>
-    Hu Tao <br/>
-    Genshin Impact (Game)
-  </li>
-  <li>
-    <ruby>
-      <rb>慶野</rb><rt>きょうの</rt>
-      <rb>七罪</rb><rt>なつみ</rt>
-    </ruby><br/>
-    Kyouno Natsumi <br/>
-    Date A Live (Anime)
-  </li>
-  <li>
-    <ruby>
-      <rb>甘</rb><rt>かん</rt>
-      <rb>雨</rb><rt>う</rt>
-    </ruby><br/>
-    Ganyu <br/>
-    Genshin Impact (Game)
-  </li>
+<li>
+<ruby>
+<rb>宝鐘</rb><rt>ほうしょう</rt><rb>マリン</rb>
+</ruby><br/>
+Houshou Marine <br/>
+Hololive Fantasy (VTuber)
+</li>
+<li>
+ビビアン・バンシー <br/>
+Vivian Banshee <br/>
+Zenless Zone Zero (Game)
+</li>
+<li>
+<ruby>
+<rb>浮浪</rb><rt>うきなみ</rt><rb>柚葉</rb><rt>ゆずは</rt>
+</ruby><br/>
+Ukinami Yuzuha <br/>
+Zenless Zone Zero (Game)
+</li>
+<li>
+<ruby>
+<rb>小鳥遊</rb><rt>たかなし</rt><rb>キアラ</rb><rt></rt>
+</ruby><br/>
+Takanashi Kiara <br/>
+Hololive English - Myth (VTuber)
+</li>
+<li>
+<ruby>
+<rb>星見</rb><rt>ほしみ</rt><rb>雅</rb><rt>みやび</rb>
+</ruby><br/>
+Hoshimi Miyabi <br/>
+Zenless Zone Zero (Game)
+</li>
+<li>
+<ruby>
+<rb>星野</rb><rt>ほしの</rt><rb>アイ</rb><rt></rt>
+</ruby><br/>
+Hoshino Ai <br/>
+Oshi no Ko (Anime)
+<li>
+<ruby>
+<rb>胡桃</rb><rt>フー・タオ</rt>
+</ruby><br/>
+Hu Tao <br/>
+Genshin Impact (Game)
+</li>
+<li>
+<ruby>
+<rb>慶野</rb><rt>きょうの</rt><rb>七罪</rb><rt>なつみ</rt>
+</ruby><br/>
+Kyouno Natsumi <br/>
+Date A Live (Anime)
+</li>
+<li>
+<ruby>
+<rb>甘</rb><rt>かん</rt><rb>雨</rb><rt>う</rt>
+</ruby><br/>
+Ganyu <br/>
+Genshin Impact (Game)
+</li>
 </ol>
 <hr/>
 
