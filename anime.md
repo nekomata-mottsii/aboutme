@@ -82,7 +82,6 @@ estimated watchtime: 51.7 days (1.7 months)
       <rb>浪</rb><rt>なみ</rt>
       <rb>柚</rb><rt>ゆず</rt>
       <rb>葉</rb><rt>は</rt>
-      <rp>【</rp><rt>うきなみ・ゆずは</rt><rp>】</rp>
     </ruby><br/>
     Ukinami Yuzuha <br/>
     Zenless Zone Zero <sub>(Game)</sub>
@@ -90,8 +89,7 @@ estimated watchtime: 51.7 days (1.7 months)
   <li>
     <ruby>
       <rb>小鳥遊</rb><rt>たかなし</rt>
-      <rb>キアラ</rb> 
-      <rp>【</rp><rt>たかなし・きあら</rt><rp>】</rp>
+      <rb>キアラ</rb>
     </ruby><br/>
     Takanashi Kiara <br/>
     Hololive English - Myth <sub>(Virtual YouTuber)</sub>
@@ -101,7 +99,6 @@ estimated watchtime: 51.7 days (1.7 months)
       <rb>星</rb><rt>ほし</rt>
       <rb>見</rb><rt>み</rb>
       <rb>雅</rb><rt>みやび</rb>
-      <rp>【</rp><rt>ほしみ・みやび</rt><rp>】</rp> 
     </ruby><br/>
     Hoshimi Miyabi <br/>
     Zenless Zone Zero <sub>(Game)</sub>
@@ -110,8 +107,7 @@ estimated watchtime: 51.7 days (1.7 months)
     <ruby>
       <rb>星</rb><rt>ほし</rt>
       <rb>野</rb><rt>の</rt>
-      <rb>アイ</rb> 
-      <rp>【</rp><rt>ほしの・あい</rt><rp>】</rp>
+      <rb>アイ</rb>
     </ruby><br/>
     Hoshino Ai <br/>
     Oshi no Ko <sub>(Anime)</sub>
