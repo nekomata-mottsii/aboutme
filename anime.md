@@ -63,7 +63,12 @@ estimated watchtime: 51.7 days (1.7 months)
 
 <ol>
   <li>
-    <ruby>宝<rt>ほう</rt></ruby><ruby>鐘<rt>しょう</rt></ruby>マリン<br/>
+    <ruby>
+      <rb>宝</rb>
+        <rt>ほう</rt>
+      <rb>鐘
+        <rt>しょう</rt>
+    </ruby>マリン<br/>
     Houshou Marine <sub>(English)</sub><br/>
     Hololive Fantasy <sub>(Virtual YouTuber)</sub>
   </li>
