@@ -1,5 +1,5 @@
 list is updated here and then <br>
-last update on Wed, Apr 10 2024 at 10:20 AM  <br>
+last update on Fri, Aug 29 2025 at 12:37 PM GMT+3 (EEST) <br>
 
 <h1> basic stuff </h1>
 estimated watchtime: 51.7 days (1.7 months)
@@ -21,14 +21,15 @@ estimated watchtime: 51.7 days (1.7 months)
   <li>中二病でも恋がしたい！ <i>(Chuunibyou)</i></li>
   <li>黒子のバスケット <i>(Kurok's Basketball)</i></li>
 </ol>
-<h3>#6 Characters</h3>
+<h3>#6 Characters (Anime and Games)</h3>
 <ul>
   <li>宝鐘マリン <i>(Houshou Marine/Hololive Fantasy)</i></li>
   <li>小鳥遊キアラ <i>(Takanashi Kiara/Hololive English - Myth)</i> </li>
   <li>慶野七罪 <i>(Kyouno Natsumi/Date A Live)</i></li>
   <li>星野アイ <i>(Hoshino Ai/Oshi no Ko)</i></li>
-  <li>甘雨 <i>(Ganyu/Genshin Impact)</i></li>
-  <li>胡桃 <i>(Hu Tao/Genshin Impact)</i></li>
+  <li>ビビアン・バンシー <i>(Vivian Banshee/Zenless Zone Zero)</i></li>
+  <li>浮浪柚葉 <i>(Ukinami Yuzuha/Zenless Zone Zero)</i></li>
+
 </ul>
 <h1> Watchlist </h1>
   <div class="container">
