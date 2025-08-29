@@ -1,6 +1,6 @@
 I mainly play on PlayStation but also have accounts to most of the other avaiable platforms:
-- PSN         nekomata-mottsii 
-- XBL         motzey nkmt
+- PSN         <a href="https://psn.motzey.com"> nekomata-mottsii </a>
+- XBL         <a href="https://xbl.motzey.com"> motzey nkmt </a>
 - Steam       /id/nekomata-mottsii/
 - EpicGames   nekomata-mottsii
 - UbiClub     motzey.nkmt
