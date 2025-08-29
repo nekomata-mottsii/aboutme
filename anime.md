@@ -16,9 +16,9 @@ estimated watchtime: 51.7 days (1.7 months)
 <h3>top 8 animes</h3>
 <ol>
   <li>押しの子 <sub>(Oshi no Ko/My Star)</sub></li>
-  <li>双星の陰陽師 <small>(Futaboshi no in'yōshi/Twin Star Exorcists)</small></li>
-  <li>デート・ア・ライブ <small>(Date A Live)</small></li>
-  <li>君は放課後インソムニア <i>(Kimi wa hōkago insomunia/Imsoniacs After School)</i></li>
+  <li>双星の陰陽師 <sub>(Futaboshi no in'yōshi/Twin Star Exorcists)</sub></li>
+  <li>デート・ア・ライブ <sub>(Date A Live)</sub></li>
+  <li>君は放課後インソムニア <sub>(Kimi wa hōkago insomunia/Imsoniacs After School)</sub></li>
   <li>トニカクカワイイ　<i>(Tonikaku Kawaii)</i></li>
   <li>この素晴らしい世界に祝福を！ <i>(Konosuba!)</i></li>
   <li>中二病でも恋がしたい！ <i>(Chuunibyou)</i></li>
