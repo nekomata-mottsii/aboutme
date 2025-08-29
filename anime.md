@@ -55,13 +55,13 @@ estimated watchtime: 51.7 days (1.7 months)
   </li>
   <li>
     <ruby>
-      <rb>この</rb><rt>　</rt>
+      <rb>この</rb><rt></rt>
       <rb>素晴</rb></rb><rt>すば</rt>
       <rb>らしい</rb><rt>　</rt>
       <rb>世界</rb></rb><rt>せかい</rt>
-      <rb>に</rb><rt>　</rt>
+      <rb>に</rb><rt></rt>
       <rb>祝福</rb><rt>しゅくふく</rt>
-      <rb>を！</rb><rt>　</rt>
+      <rb>を！</rb><rt></rt>
     </ruby><br/>
     kono subarashī sekai ni shukufuku o! (rōmaji) <br/>
     Konosuba!(English)
