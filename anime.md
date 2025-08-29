@@ -41,7 +41,7 @@ estimated watchtime: 51.7 days (1.7 months)
   </li>
   <li>
     この素晴らしい世界に祝福を！ <br/>
-    kono subarashī sekai ni shukufuku o! <sub>(rōmaji)</sub><br/.
+    kono subarashī sekai ni shukufuku o! <sub>(rōmaji)</sub><br/>
     Konosuba!<sub>(English)</sub>
   </li>
   <li>
