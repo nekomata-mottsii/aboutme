@@ -58,7 +58,7 @@ estimated watchtime: 51.7 days (1.7 months)
   </li>
   <li>
     <ruby>
-      <rb>この</rb>
+      <rb>この</rb><rt>　</rt>
       <rb>素晴</rb></rb><rt>すば</rt>
       <rb>らしい</rb><rt>　</rt>
       <rb>世界</rb></rb><rt>せかい</rt>
