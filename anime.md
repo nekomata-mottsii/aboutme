@@ -1,4 +1,4 @@
-last update: <br/> Fri, Aug 29 2025 at 01:01 PM <sub>GMT+3<ruby>
+last update: <br/> Fri, Aug 29 2025 at 03:48 PM <sub>GMT+3<ruby>
 
 <h3> intro </h3>
 this is an overview of my anime watchtime and favorite animes and characters (anime and games). Also there's my watchlist in the end.
@@ -112,17 +112,27 @@ estimated watchtime: 51.7 days (1.7 months)
     Hoshino Ai <br/>
     Oshi no Ko <sub>(Anime)</sub>
   <li>
-    胡桃 <br/>
+    <ruby>
+      <rb>胡桃</rb><rt>フー・タオ</rt>
+    </ruby><br/>
     Hu Tao <br/>
     Genshin Impact <sub>(Game)</sub>
   </li>
   <li>
-    慶野七罪 <br/>
+    <ruby>
+      <rb>慶</rb><rt>きょう</rt>
+      <rb>野</rb><rt>の</rt>
+      <rb>七</rb><rt>な</rt>
+      <rb>罪</rb><rt>つみ</rt> 
+    </ruby><br/>
     Kyouno Natsumi
     Date A Live <sub>(Anime)</sub>
   </li>
   <li>
-    甘雨 <br/>
+    <ruby>
+      <rb>甘</rb><rt>かん</rt>
+      <rb>雨</rb><rt>う</rt>
+    </ruby><br/>
     Ganyu <br/>
     Genshin Impact <sub>(Game)</sub>
   </li>
