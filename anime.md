@@ -26,7 +26,9 @@ estimated watchtime: 51.7 days (1.7 months)
 </ol>
 <hr/>
 
-<h3>#7 Characters</h3><sup>(Anime and Games)</sup>
+<h3>top 7 characters</h3><br/>
+<sup>(Anime and Games)</sup><br/>
+
 <ol>
   <li>宝鐘マリン <i>(Houshou Marine/Hololive Fantasy)</i></li>
   <li>ビビアン・バンシー <i>(Vivian Banshee/Zenless Zone Zero)</i></li>
