@@ -125,8 +125,8 @@ estimated watchtime: 51.7 days (1.7 months)
       <rb>七</rb><rt>な</rt>
       <rb>罪</rb><rt>つみ</rt> 
     </ruby><br/>
-    Kyouno Natsumi
-    Date A Live <sub>(Anime)</sub>
+    Kyouno Natsumi <br/>
+    Date A Live <span font-size:8px;>(Anime)</span>
   </li>
   <li>
     <ruby>
