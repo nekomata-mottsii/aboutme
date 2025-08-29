@@ -14,12 +14,12 @@ estimated watchtime: 51.7 days (1.7 months)
 <hr/>
 
 <h3>animes</h3>
-explanation:
+context on how an entry in the list is built:
 <ul>
 <li>
-Japanese furigana, e.g. <ruby><rb>日</rb><rt>に</rt><rb>本</rb><rt>ほん</rt></ruby><br/>
-Japanese rōmaji, e.g. nihon<br/>
-English Translation, e.g. Japan<br/>
+<ruby><rb>日</rb><rt>に</rt><rb>本</rb><rt>ほん</rt></ruby>(Japanese furigana)<br/>
+nihon (Japanese rōmaji)<br/>
+Japan (English Translation)<br/>
 </li>
 </ul>
 
