@@ -1,4 +1,4 @@
-last update: <br/> Fri, Aug 29 2025 at 04:20 PM <sub>GMT+3<ruby>
+last update: <br/> Fri, Aug 29 2025 at 04:33 PM <sub>GMT+3<ruby>
 
 <h3> intro </h3>
 this is an overview of my anime watchtime and favorite animes and my favorite vtubers and anime/game characters). Also there's my watchlist in the end.
@@ -68,13 +68,13 @@ estimated watchtime: 51.7 days (1.7 months)
       <rb>鐘</rb><rt>しょう</rt>
       <rb>マリン</rb>
     </ruby><br/>
-    Houshou Marine <sub>(English)</sub><br/>
-    Hololive Fantasy <sub>(Virtual YouTuber)</sub>
+    Houshou Marine <br/>
+    Hololive Fantasy (VTuber)
   </li>
   <li>
     ビビアン・バンシー <br/>
     Vivian Banshee <br/>
-    Zenless Zone Zero <sub>(Game)</sub>
+    Zenless Zone Zero (Game)
   </li>
   <li>
     <ruby>
@@ -84,7 +84,7 @@ estimated watchtime: 51.7 days (1.7 months)
       <rb>葉</rb><rt>は</rt>
     </ruby><br/>
     Ukinami Yuzuha <br/>
-    Zenless Zone Zero <sub>(Game)</sub>
+    Zenless Zone Zero (Game)
   </li>
   <li>
     <ruby>
@@ -92,7 +92,7 @@ estimated watchtime: 51.7 days (1.7 months)
       <rb>キアラ</rb>
     </ruby><br/>
     Takanashi Kiara <br/>
-    Hololive English - Myth <sub>(Virtual YouTuber)</sub>
+    Hololive English - Myth (VTuber)
   </li>
   <li>
     <ruby>
@@ -101,7 +101,7 @@ estimated watchtime: 51.7 days (1.7 months)
       <rb>雅</rb><rt>みやび</rb>
     </ruby><br/>
     Hoshimi Miyabi <br/>
-    Zenless Zone Zero <sub>(Game)</sub>
+    Zenless Zone Zero (Game)
   </li>
   <li>
     <ruby>
@@ -110,13 +110,13 @@ estimated watchtime: 51.7 days (1.7 months)
       <rb>アイ</rb>
     </ruby><br/>
     Hoshino Ai <br/>
-    Oshi no Ko <sub>(Anime)</sub>
+    Oshi no Ko (Anime)
   <li>
     <ruby>
       <rb>胡桃</rb><rt>フー・タオ</rt>
     </ruby><br/>
     Hu Tao <br/>
-    Genshin Impact <sub>(Game)</sub>
+    Genshin Impact (Game)
   </li>
   <li>
     <ruby>
@@ -126,7 +126,7 @@ estimated watchtime: 51.7 days (1.7 months)
       <rb>罪</rb><rt>つみ</rt> 
     </ruby><br/>
     Kyouno Natsumi <br/>
-    Date A Live <small>(Anime)</small>
+    Date A Live (Anime)
   </li>
   <li>
     <ruby>
@@ -134,7 +134,7 @@ estimated watchtime: 51.7 days (1.7 months)
       <rb>雨</rb><rt>う</rt>
     </ruby><br/>
     Ganyu <br/>
-    Genshin Impact <sub>(Game)</sub>
+    Genshin Impact (Game)
   </li>
 </ol>
 <hr/>
