@@ -57,7 +57,7 @@ estimated watchtime: 51.7 days (1.7 months)
 </ol>
 <hr/>
 
-<h3>top 8 characters</h3><br/>
+<h3>top 10 characters</h3><br/>
 (VTuber, Games & Anime)<br/>
 
 <ol>
@@ -82,9 +82,19 @@ estimated watchtime: 51.7 days (1.7 months)
     Hololive English - Myth <sub>(Virtual YouTuber)</sub>
   </li>
   <li>
+    星見雅 <br/>
+    Hoshimi Miyabi <br/>
+    Zenless Zone Zero <sub>(Game)</sub>
+  </li>
+  <li>
     星野アイ <br/>
     Hoshino Ai <br/>
     Oshi no Ko <sub>(Anime)</sub>
+  <li>
+    胡桃 <br/>
+    Hu Tao <br/>
+    Genshin Impact <sub>(Game)</sub>
+  </li>
   <li>
     慶野七罪 <br/>
     Kyouno Natsumi
@@ -93,7 +103,7 @@ estimated watchtime: 51.7 days (1.7 months)
   <li>
     甘雨 <br/>
     Ganyu <br/>
-    Genshin Impact <sub>(Gamea2)</sub>
+    Genshin Impact <sub>(Game)</sub>
   </li>
 </ol>
 <hr/>
