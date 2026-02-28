@@ -5,7 +5,7 @@ this is an overview of my anime watchtime and favorite animes and my favorite vt
 
 <hr />
 
-estimated watchtime: 51.7 days (1.7 months)
+estimated watchtime: 54.8 days (1.8 months)
 <h3> top 3 genres </h3>
   <ol>
     <li>Comedy (about 58%)</li>
