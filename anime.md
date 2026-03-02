@@ -1,239 +1,80 @@
-last update: <br/> Sat, Feb 28 2026 at 01:15 AM GMT+1<hr/>
+last update: Mon, Mar 2 2026 at 02:45 PM GMT+1 <br />
 
-<hr />
+---
 
-<nav id="toc">
-  <strong>Table of Contents</strong>
-  <ul id="toc-list"></ul>
-</nav>
+## Table of Contents
+* [Intro](#intro)
+* [Top 3 Genres](#top-3-genres)
+* [Top Anime](#top-anime)
+* [Favorite Characters](#favorite-characters)
+* [Watchlist](#watchlist)
 
-<hr />
+---
 
-<h3> intro </h3>
+### Intro
 this is an overview of my anime watchtime and favorite animes and my favorite vtubers and anime/game characters). Also there's my watchlist in the end.
-
-<hr />
-
 estimated watchtime: 54.8 days (1.8 months)
-<h3> top 3 genres </h3>
-  <ol>
-    <li>Comedy (about 58%)</li>
-    <li>Romance (about 46%)</li>
-    <li>Fantasy (about 29%)</li>
-  </ol>
 
-<hr />
+---
 
-context on how an entry in the anime list is built: <br /><br />
+### Top 3 Genres
+1. Comedy (about 58%)
+2. Romance (about 46%)
+3. Fantasy (about 29%)
+
+---
+
+context on how an entry in the anime list is built:
+
 <ruby>
   <rb>日</rb><rt>に</rt>
   <rb>本</rb><rt>ほん</rt>
-</ruby> (Japanese furigana)<br />
-nihon (Japanese rōmaji, how its read)<br />
-Japan (English Translation)<br />
-<br />
+</ruby> (Japanese furigana)  <br />
+nihon (Japanese rōmaji, how its read)  <br />
+Japan (English Translation) <br /><br />
 
-<h3> top anime</h3>
-<ol>
-  <li>
-    <ruby>
-      <rb>押</rb><rt>お</rt>
-      <rb>しの</rb><rt></rt>
-      <rb>子</rb><rt>こ</rt>
-    </ruby> <br/ >
-    oshi no ko <br />
-    My Star
-  </li>
-  
-  <li>
-    <ruby>
-      <rb>双星</rb><rt>ふたぼし</rt>
-      <rb>の</rb><rt></rt>
-      <rb>陰陽師</rb><rt>いんようし</rt>
-    </ruby> <br />
-    futaboshi no in'yōshi <br />
-    Twin Star Exorcists
-  </li>
-  
-  <li>
-    デート・ア・ライブ <br/ >
-    dēto a raibu <br/ >
-    Date A Live
-  </li>
-  
-  <li>
-    <ruby>
-      <rb>ジョゼと</rb><rt></rt>
-      <rb>虎</rb><rt>とら</rt>
-      <rb>と</rb><rt></rt>
-      <rb>魚</rb><rt>さかな</rt>
-      <rb>たち</rb><rt></rt>
-    </ruby> <br />
-    joze to tora to sakanatachi <br />
-    Josee, the Tiger and the Fish
-  </li>
-  
-  <li>
-    <ruby>
-      <rb>君</rb><rt>きみ</rt>
-      <rb>は</rb><rt></rt>
-      <rb>放課後</rb><rt>ほうかご</rt>
-      <rb>インソムニア</rb><rt></rt>
-    </ruby> <br />
-    kimi wa hōkago insomunia <br />
-    Imsoniacs After School
-  </li>
-  
-  <li>
-    トニカクカワイイ　<br/ >
-    tonikaku kawaii <br/ >
-    Tonikawa
-  </li>
-  
-  <li>
-    <ruby>
-      <rb>この</rb><rt></rt>
-      <rb>素晴</rb></rb><rt>すば</rt>
-      <rb>らしい</rb><rt></rt>
-      <rb>世界</rb><rt>せかい</rt>
-      <rb>に</rb><rt></rt>
-      <rb>祝福</rb><rt>しゅくふく</rt>
-      <rb>を！</rb><rt></rt>
-    </ruby> <br />
-    kono subarashī sekai ni shukufuku o!<br/>
-    Konosuba!
-  </li>
-  
-  <li>
-    <ruby>
-      <rb>中二病</rb><rt>ちゅうにびょう</rt>
-      <rb>でも</rb><rt></rt>
-      <rb>恋</rb><rt>こい</rt>
-      <rb>がしたい！</rb><rt></rt>
-    </ruby> <br/ >
-    chūnibyō demo koi ga shitai! <br/>
-    Chunibyo!
-  </li>
-  
-  <li>
-    <ruby>
-      <rb>黒</rb><rt>くろ</rt>
-      <rb>子</rb><rt>こ</rt>
-      <rb>のバスケット</rb><rt></rt>
-    </ruby><br />
-    kuroko no basuketto<br/>
-    Kuroko's Basketball
-  </li>
-</ol>
 
-<hr />
+### Top Anime
+1. <ruby><rb>押</rb><rt>お</rt><rb>しの</rb><rt></rt><rb>子</rb><rt>こ</rt></ruby> <br/> oshi no ko <br/> My Star
+2. <ruby><rb>双星</rb><rt>ふたぼし</rt><rb>の</rb><rt></rt><rb>陰陽師</rb><rt>いんようし</rt></ruby> <br/> futaboshi no in'yōshi <br/> Twin Star Exorcists
+3. デート・ア・ライブ <br/> dēto a raibu <br/> Date A Live
+4. <ruby><rb>ジョゼと</rb><rt></rt><rb>虎</rb><rt>とら</rt><rb>と</rb><rt></rt><rb>魚</rb><rt>さかな</rt><rb>たち</rb><rt></rt></ruby> <br/> joze to tora to sakanatachi <br/> Josee, the Tiger and the Fish
+5. <ruby><rb>君</rb><rt>きみ</rt><rb>は</rb><rt></rt><rb>放課後</rb><rt>ほうかご</rt><rb>インソムニア</rb><rt></rt></ruby> <br/> kimi wa hōkago insomunia <br/> Imsoniacs After School
+6. トニカクカワイイ <br/> tonikaku kawaii <br/> TONIKAWA: Over the Moon for You
+7. <ruby><rb>この</rb><rt></rt><rb>素晴</rb><rt>すば</rt><rb>らしい</rb><rt></rt><rb>世界</rb><rt>せかい</rt><rb>に</rb><rt></rt><rb>祝福</rb><rt>しゅくふく</rt><rb>を！</rb><rt></rt></ruby> <br/> kono subarashī sekai ni shukufuku o! <br/> Give Blessings to This Wonderful World! (or short: Konosuba!)
+8. <ruby><rb>中二病</rb><rt>ちゅうにびょう</rt><rb>でも</rb><rt></rt><rb>恋</rb><rt>こい</rt><rb>がしたい！</rb><rt></rt></ruby> <br/> chūnibyō demo koi ga shitai! <br/> Love, Chunibyo & Other Delusions!
+9. <ruby><rb>黒</rb><rt>くろ</rt><rb>子</rb><rt>こ</rt><rb>のバスケット</rb><rt></rt></ruby> <br/> kuroko no basuketto <br/> Kuroko's Basketball
 
-<h3>favorite characters</h3>
-<h4>(VTuber, Games & Anime)</h4><br />
-context on how an entry in the anime list is built: <br /><br />
+---
+
+### Favorite Characters
+#### (VTuber, Games & Anime)
+context on how an entry in the anime list is built:
+
 <ruby>
   <rb>日</rb><rt>に</rt>
   <rb>本</rb><rt>ほん</rt>
-</ruby> (Japanese furigana)<br />
-Internationalised/English Name<br />
-Franchise (Game / Anime / ...)<br />
-<br />
-<ol>
-  <li>
-    ビビアン・バンシー <br />
-    Vivian Banshee <br />
-    Zenless Zone Zero (Game)
-  </li>
-  
-  <li>
-    <ruby>
-      <rb>浮浪</rb><rt>うきなみ</rt>
-      <rb>柚葉</rb><rt>ゆずは</rt>
-    </ruby><br />
-    Ukinami Yuzuha <br />
-    Zenless Zone Zero (Game)
-  </li>
+</ruby> (Japanese furigana)  <br />
+Internationalised/English Name  <br />
+Franchise (Game / Anime / VTuber) <br /><br />
 
-  <li>
-    <ruby>
-      <rb>時崎</rb><rt>ときさき</rt>
-      <rb>狂三</rb><rt>くるみ</rt>
-    </ruby> <br />
-    Tokisaki Kurumi <br />
-    Date A Live (Anime)
-  </li>
+1. ビビアン・バンシー <br/> Vivian Banshee <br/> Zenless Zone Zero (Game)
+2. <ruby><rb>浮浪</rb><rt>うきなみ</rt><rb>柚葉</rb><rt>ゆずは</rt></ruby> <br/> Ukinami Yuzuha <br/> Zenless Zone Zero (Game)
+3. <ruby><rb>時崎</rb><rt>ときさき</rt><rb>狂三</rb><rt>くるみ</rt></ruby> <br/> Tokisaki Kurumi <br/> Date A Live (Anime)
+4. イヴォンヌ <br/> Yvonne <br/> Arknights: Enfield (Game)
+5. <ruby><rb>崇宮</rb><rt>たかみや</rt><rb>澪</rb><rt>みお</rt></ruby> <br/> Takamiya Mio <br/> Date A Live (Anime)
+6. <ruby><rb>星野</rb><rt>ほしの</rt><rb>アイ</rb><rt></rt></ruby> <br/> Hoshino Ai <br/> Oshi no Ko (Anime)
+7. <ruby><rb>慶野</rb><rt>きょうの</rt><rb>七罪</rb><rt>なつみ</rt></ruby> <br/> Kyouno Natsumi <br/> Date A Live (Anime)
+8. フローライト <br/> Flourite <br/> Arknights: Endfield (Game)
+9. <ruby><rb>宝金</rb><rt>ほうしょう</rt><rb>マリン</rb><rt></rt></ruby> <br/> Houshou Marine <br/> Agency VTuber (Hololive Corp.) 
 
-  <li>
-    イヴォンヌ <br />
-    Yvonne <br />
-    Arknights: Enfield (Game)
-  </li>
-  
-  <li>
-    <ruby>
-      <rb>崇宮</rb><rt>たかみや</rt>
-      <rb>澪</rb><rt>みお</rt>
-    </ruby><br />
-    Takamiya Mio <br />
-    Date A Live (Anime)
-  </li>
-  
-  <li>
-    <ruby>
-      <rb>星野</rb><rt>ほしの</rt>
-      <rb>アイ</rb><rt></rt>
-    </ruby> <br />
-    Hoshino Ai <br />
-    Oshi no Ko (Anime)
-  </li>
-  
-  <li>
-    <ruby>
-      <rb>慶野</rb><rt>きょうの</rt>
-      <rb>七罪</rb><rt>なつみ</rt>
-    </ruby> <br />
-    Kyouno Natsumi <br />
-    Date A Live (Anime)
-  </li>
+---
 
-  <li>
-    フローライト <br />
-    Flourite <br />
-    Arknights: Endfield (Game)
-  </li>
-</ol>
+### Watchlist
+[![Watchlist Image](https://c.tenor.com/geGFxXPcbfkAAAAS/chuunibyou-smug.gif)](https://kitsu.io/users/nekomata_mottsii/library)
 
-<hr />
+*click image to get sent to watchlist on kitsu*
 
-<h3> Watchlist </h3>
-  <div class="container">
-    <a href="https://kitsu.io/users/nekomata_mottsii/library">
-      <img src="https://c.tenor.com/geGFxXPcbfkAAAAS/chuunibyou-smug.gif" width="250" height="250" alt="test" class="image">
-      <div class="overlay">
-    </a>
-  </div>
- click image to get sent to watchlist on kitsu
-  <h3/><hr/>
+---
 
-  <a href="https://github.com/nekomata_mottsii">go back to main page</a>
-
-  <hr />
-
-  <script>
-  const tocList = document.getElementById('toc-list');
-  const headers = document.querySelectorAll('h2');
-
-  headers.forEach((header) => {
-    // 1. Create the list item
-    const li = document.createElement('li');
-    const anchor = document.createElement('a');
-    
-    // 2. Link the anchor to the header ID
-    anchor.textContent = header.textContent;
-    anchor.href = `#${header.id}`;
-    
-    // 3. Append to the list
-    li.appendChild(anchor);
-    tocList.appendChild(li);
-  });
-</script>
+[go back to main page](https://github.com/nekomata_mottsii)
