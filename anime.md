@@ -1,5 +1,14 @@
 last update: <br/> Sat, Feb 28 2026 at 01:15 AM GMT+1<hr/>
 
+<hr />
+
+<nav id="toc">
+  <strong>Table of Contents</strong>
+  <ul id="toc-list"></ul>
+</nav>
+
+<hr />
+
 <h3> intro </h3>
 this is an overview of my anime watchtime and favorite animes and my favorite vtubers and anime/game characters). Also there's my watchlist in the end.
 
@@ -120,9 +129,16 @@ Japan (English Translation)<br />
 <hr />
 
 <h3>favorite characters</h3>
-(VTuber, Games & Anime)<br/>
+<h4>(VTuber, Games & Anime)</h4><br />
+context on how an entry in the anime list is built: <br /><br />
+<ruby>
+  <rb>日</rb><rt>に</rt>
+  <rb>本</rb><rt>ほん</rt>
+</ruby> (Japanese furigana)<br />
+Internationalised/English Name<br />
+Franchise (Game / Anime / ...)<br />
+<br />
 <ol>
-  
   <li>
     ビビアン・バンシー <br />
     Vivian Banshee <br />
@@ -151,6 +167,15 @@ Japan (English Translation)<br />
     イヴォンヌ <br />
     Yvonne <br />
     Arknights: Enfield (Game)
+  </li>
+  
+  <li>
+    <ruby>
+      <rb>崇宮</rb><rt>たかみや</rt>
+      <rb>澪</rb><rt>みお</rt>
+    </ruby><br />
+    Takamiya Mio <br />
+    Date A Live (Anime)
   </li>
   
   <li>
@@ -191,3 +216,24 @@ Japan (English Translation)<br />
   <h3/><hr/>
 
   <a href="https://github.com/nekomata_mottsii">go back to main page</a>
+
+  <hr />
+
+  <script>
+  const tocList = document.getElementById('toc-list');
+  const headers = document.querySelectorAll('h2');
+
+  headers.forEach((header) => {
+    // 1. Create the list item
+    const li = document.createElement('li');
+    const anchor = document.createElement('a');
+    
+    // 2. Link the anchor to the header ID
+    anchor.textContent = header.textContent;
+    anchor.href = `#${header.id}`;
+    
+    // 3. Append to the list
+    li.appendChild(anchor);
+    tocList.appendChild(li);
+  });
+</script>
