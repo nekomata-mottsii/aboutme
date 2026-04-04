@@ -39,7 +39,7 @@ Japan (English Translation) <br /><br />
 2. <ruby><rb>双星</rb><rt>ふたぼし</rt><rb>の</rb><rt></rt><rb>陰陽師</rb><rt>いんようし</rt></ruby> <br/> futaboshi no in'yōshi <br/> Twin Star Exorcists
 3. デート・ア・ライブ <br/> dēto a raibu <br/> Date A Live
 4. <ruby><rb>ジョゼと</rb><rt></rt><rb>虎</rb><rt>とら</rt><rb>と</rb><rt></rt><rb>魚</rb><rt>さかな</rt><rb>たち</rb><rt></rt></ruby> <br/> joze to tora to sakanatachi <br/> Josee, the Tiger and the Fish
-5. <ruby><rb>君</rb><rt>きみ</rt><rb>は</rb><rt></rt><rb>放課後</rb><rt>ほうかご</rt><rb>インソムニア</rb><rt></rt></ruby> <br/> kimi wa hōkago insomunia <br/> Imsoniacs After School
+5. <ruby><rb>君</rb><rt>きみ</rt><rb>は</rb><rt></rt><rb>放課後</rb><rt>ほうかご</rt><rb>インソムニア</rb><rt></rt></ruby> <br/> kimi wa hōkago insomunia <br/> Insomniacs After School
 6. トニカクカワイイ <br/> tonikaku kawaii <br/> TONIKAWA: Over the Moon for You
 7. <ruby><rb>この</rb><rt></rt><rb>素晴</rb><rt>すば</rt><rb>らしい</rb><rt></rt><rb>世界</rb><rt>せかい</rt><rb>に</rb><rt></rt><rb>祝福</rb><rt>しゅくふく</rt><rb>を！</rb><rt></rt></ruby> <br/> kono subarashī sekai ni shukufuku o! <br/> Give Blessings to This Wonderful World! (or short: Konosuba!)
 8. <ruby><rb>中二病</rb><rt>ちゅうにびょう</rt><rb>でも</rb><rt></rt><rb>恋</rb><rt>こい</rt><rb>がしたい！</rb><rt></rt></ruby> <br/> chūnibyō demo koi ga shitai! <br/> Love, Chunibyo & Other Delusions!
