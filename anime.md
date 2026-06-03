@@ -1,4 +1,4 @@
-last update: Mon, Mar 2 2026 at 02:45 PM GMT+1 <br />
+last update: <t:1780524900:S> <br />
 
 ---
 
@@ -35,15 +35,16 @@ Japan (English Translation) <br /><br />
 
 
 ### Top Anime
-1. <ruby><rb>押</rb><rt>お</rt><rb>しの</rb><rt></rt><rb>子</rb><rt>こ</rt></ruby> <br/> oshi no ko <br/> My Star
-2. <ruby><rb>双星</rb><rt>ふたぼし</rt><rb>の</rb><rt></rt><rb>陰陽師</rb><rt>いんようし</rt></ruby> <br/> futaboshi no in'yōshi <br/> Twin Star Exorcists
-3. デート・ア・ライブ <br/> dēto a raibu <br/> Date A Live
-4. <ruby><rb>ジョゼと</rb><rt></rt><rb>虎</rb><rt>とら</rt><rb>と</rb><rt></rt><rb>魚</rb><rt>さかな</rt><rb>たち</rb><rt></rt></ruby> <br/> joze to tora to sakanatachi <br/> Josee, the Tiger and the Fish
-5. <ruby><rb>君</rb><rt>きみ</rt><rb>は</rb><rt></rt><rb>放課後</rb><rt>ほうかご</rt><rb>インソムニア</rb><rt></rt></ruby> <br/> kimi wa hōkago insomunia <br/> Insomniacs After School
-6. トニカクカワイイ <br/> tonikaku kawaii <br/> TONIKAWA: Over the Moon for You
-7. <ruby><rb>この</rb><rt></rt><rb>素晴</rb><rt>すば</rt><rb>らしい</rb><rt></rt><rb>世界</rb><rt>せかい</rt><rb>に</rb><rt></rt><rb>祝福</rb><rt>しゅくふく</rt><rb>を！</rb><rt></rt></ruby> <br/> kono subarashī sekai ni shukufuku o! <br/> Give Blessings to This Wonderful World! (or short: Konosuba!)
-8. <ruby><rb>中二病</rb><rt>ちゅうにびょう</rt><rb>でも</rb><rt></rt><rb>恋</rb><rt>こい</rt><rb>がしたい！</rb><rt></rt></ruby> <br/> chūnibyō demo koi ga shitai! <br/> Love, Chunibyo & Other Delusions!
-9. <ruby><rb>黒</rb><rt>くろ</rt><rb>子</rb><rt>こ</rt><rb>のバスケット</rb><rt></rt></ruby> <br/> kuroko no basuketto <br/> Kuroko's Basketball
+1. <ruby><rb>四月</rb><rt>しがつ</rt><rb>わ</rb><rt></rt><rb>君</rb><rt>きみ</rt><rb>の</rb><rt></rt><rb>噓</rb><rt>うそ</rt></ruby> <br/> shigatsu wa kimi no uso <br/> Your Lie In April
+2. <ruby><rb>君</rb><rt>きみ</rt><rb>は</rb><rt></rt><rb>放課後</rb><rt>ほうかご</rt><rb>インソムニア</rb><rt></rt></ruby> <br/> kimi wa hōkago insomunia <br/> Insomniacs After School
+3. <ruby><rb>クラスで２</rb><rt></rt><rb>番</rb><rt>ばん</rt><rb>目</rb><rt>め</rt><rb>に</rb><rt></rt><rb>可愛</rb><rt>かわい</rt><rb>い</rb><rt></rt><rb>女</rb><rt>おんな</rt><rb>の</rb><rt></rt><rb>子</rb><rt>こ</rt><rb>と</rb><rt></rt><rb>友</rb><rt>とも</rt><rb>だちになった</rb><rt></rt></ruby> <br/> kurasu de 2-banme ni kawaii on'nanoko to tomodachi ni natta <br/> I Made Friends with the Second Prettiest Girl in My Class
+4. <ruby><rb>押</rb><rt>お</rt><rb>しの</rb><rt></rt><rb>子</rb><rt>こ</rt></ruby> <br/> oshi no ko <br/> My Star
+5. <ruby><rb>双星</rb><rt>ふたぼし</rt><rb>の</rb><rt></rt><rb>陰陽師</rb><rt>いんようし</rt></ruby> <br/> futaboshi no in'yōshi <br/> Twin Star Exorcists
+6. デート・ア・ライブ <br/> dēto a raibu <br/> Date A Live
+7. <ruby><rb>ジョゼと</rb><rt></rt><rb>虎</rb><rt>とら</rt><rb>と</rb><rt></rt><rb>魚</rb><rt>さかな</rt><rb>たち</rb><rt></rt></ruby> <br/> joze to tora to sakanatachi <br/> Josee, the Tiger and the Fish
+8. トニカクカワイイ <br/> tonikaku kawaii <br/> TONIKAWA: Over the Moon for You
+9. <ruby><rb>この</rb><rt></rt><rb>素晴</rb><rt>すば</rt><rb>らしい</rb><rt></rt><rb>世界</rb><rt>せかい</rt><rb>に</rb><rt></rt><rb>祝福</rb><rt>しゅくふく</rt><rb>を！</rb><rt></rt></ruby> <br/> kono subarashī sekai ni shukufuku o! <br/> Give Blessings to This Wonderful World! (or short: Konosuba!)
+10. <ruby><rb>中二病</rb><rt>ちゅうにびょう</rt><rb>でも</rb><rt></rt><rb>恋</rb><rt>こい</rt><rb>がしたい！</rb><rt></rt></ruby> <br/> chūnibyō demo koi ga shitai! <br/> Love, Chunibyo & Other Delusions!
 
 ---
 
@@ -61,17 +62,18 @@ Franchise (Game / Anime / VTuber) <br /><br />
 1. ビビアン・バンシー <br/> Vivian Banshee <br/> Zenless Zone Zero (Game)
 2. <ruby><rb>浮浪</rb><rt>うきなみ</rt><rb>柚葉</rb><rt>ゆずは</rt></ruby> <br/> Ukinami Yuzuha <br/> Zenless Zone Zero (Game)
 3. <ruby><rb>時崎</rb><rt>ときさき</rt><rb>狂三</rb><rt>くるみ</rt></ruby> <br/> Tokisaki Kurumi <br/> Date A Live (Anime)
-4. イヴォンヌ <br/> Yvonne <br/> Arknights: Enfield (Game)
-5. <ruby><rb>崇宮</rb><rt>たかみや</rt><rb>澪</rb><rt>みお</rt></ruby> <br/> Takamiya Mio <br/> Date A Live (Anime)
-6. <ruby><rb>星野</rb><rt>ほしの</rt><rb>アイ</rb><rt></rt></ruby> <br/> Hoshino Ai <br/> Oshi no Ko (Anime)
-7. <ruby><rb>慶野</rb><rt>きょうの</rt><rb>七罪</rb><rt>なつみ</rt></ruby> <br/> Kyouno Natsumi <br/> Date A Live (Anime)
-8. フローライト <br/> Flourite <br/> Arknights: Endfield (Game)
-9. <ruby><rb>宝金</rb><rt>ほうしょう</rt><rb>マリン</rb><rt></rt></ruby> <br/> Houshou Marine <br/> Agency VTuber (Hololive Corp.) 
+4. <ruby><rb>宝金</rb><rt>ほうしょう</rt><rb>マリン</rb><rt></rt></ruby> <br/> Houshou Marine <br/> Agency VTuber (Hololive Corp.)  
+5. イヴォンヌ <br/> Yvonne <br/> Arknights: Enfield (Game)
+6. <ruby><rb>崇宮</rb><rt>たかみや</rt><rb>澪</rb><rt>みお</rt></ruby> <br/> Takamiya Mio <br/> Date A Live (Anime)
+7. <ruby><rb>星野</rb><rt>ほしの</rt><rb>アイ</rb><rt></rt></ruby> <br/> Hoshino Ai <br/> Oshi no Ko (Anime)
+8. <ruby><rb>慶野</rb><rt>きょうの</rt><rb>七罪</rb><rt>なつみ</rt></ruby> <br/> Kyouno Natsumi <br/> Date A Live (Anime)
+9. オルペウス・マグヌッソン <br/> Orphie Magnusson <br/> Zenless Zone Zero (Game)
+10. フローライト <br/> Flourite <br/> Arknights: Endfield (Game)
 
 ---
 
 ### Watchlist
-[![Watchlist Image](https://c.tenor.com/geGFxXPcbfkAAAAS/chuunibyou-smug.gif)](https://kitsu.io/users/nekomata_mottsii/library)
+[![Watchlist Image](https://c.tenor.com/geGFxXPcbfkAAAAS/chuunibyou-smug.gif)](https://kitsu.app/users/nekomata_mottsii/library)
 
 *click image to get sent to watchlist on kitsu*
 
