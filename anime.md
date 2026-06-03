@@ -1,4 +1,4 @@
-last update: Thu, 2026-06-04 at 12:21 AM GMT+2 (CEST)  <br />
+last update: Thu, 2026-06-04 at 12:53 AM GMT+2 (CEST)  <br />
 
 ---
 
@@ -18,8 +18,8 @@ estimated watchtime: 54.8 days (1.8 months)
 ---
 
 ### Top 3 Genres
-1. Comedy (about 58%)
-2. Romance (about 46%)
+1. Comedy (about 57%)
+2. Romance (about 47%)
 3. Fantasy (about 29%)
 
 ---
