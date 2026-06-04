@@ -1,4 +1,4 @@
-last update: Thu, 2026-06-04 at 12:53 AM GMT+2 (CEST)  <br />
+last update: Thu, 2026-06-04 at 01:52 PM GMT+2 (CEST)  <br />
 
 ---
 
@@ -18,10 +18,10 @@ estimated watchtime: 54.8 days (1.8 months)
 ---
 
 ### Top 3 Genres
-1. Comedy (about 57%)
-2. Romance (about 47%)
-3. Fantasy (about 29%)
-
+1. Comedy (57%)
+2. Romance (47%)
+3. Fantasy (29%) <br/>
+<sup>percentages are of completed list (e.g. 57% of all completed anime are comedy) and not of 100%</sup>
 ---
 
 context on how an entry in the anime list is built:
