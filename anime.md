@@ -1,4 +1,4 @@
-last update: Thu, 2026-06-04 at 01:52 PM GMT+2 (CEST)  <br />
+last update: Thu, 2026-06-04 at 01:53 PM GMT+2 (CEST)  <br />
 
 ---
 
@@ -13,7 +13,7 @@ last update: Thu, 2026-06-04 at 01:52 PM GMT+2 (CEST)  <br />
 
 ### Intro
 this is an overview of my anime watchtime and favorite animes and my favorite vtubers and anime/game characters). Also there's my watchlist in the end.
-estimated watchtime: 54.8 days (1.8 months)
+estimated watchtime: 57.8 days (1.9 months)
 
 ---
 
