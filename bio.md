@@ -1,7 +1,6 @@
 bio
 
 I am Motzey Nekomata <br />
-<br />
 from Germany and 23 years old, born April 24. <br />
 native German speaker <br />
 English B2 <br />
@@ -13,4 +12,4 @@ anime / manga addict <br />
 <br />
 
 --- 
-<sub> last updated on: Tue, 2026-08-04 at 03:24 AM UTC+02 (CEST) </sub>
+<sub> last updated on: Tue, 2026-08-04 at 03:25 AM UTC+02 (CEST) </sub>
