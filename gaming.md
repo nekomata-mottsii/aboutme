@@ -13,5 +13,6 @@ I play Rainbow Six Siege, Zenless Zone Zero, Minecraft, Rocket League, ...
 <br>
 
 <a href="https://github.com/nekomata-mottsii"> back to main page </a>
-
-<sub> last updated on: 2026-08-04 at 03:16 AM UTC+02 (CEST) </sub>
+<br />
+--- 
+<sub> last updated on: Tue, 2026-08-04 at 03:19 AM UTC+02 (CEST) </sub>
