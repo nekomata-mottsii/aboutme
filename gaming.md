@@ -8,10 +8,10 @@ I mainly play on PlayStation but also have accounts to most of the other avaiabl
 
 I play Rainbow Six Siege, Zenless Zone Zero, Minecraft, Rocket League, ...
 - <a href="http://r6pc.motzey.com/" ref="noopener norefferer nofollow external"> Rainbow Six Stats </a>
-- <a href="https://enka.motzey.com" ref="noopener norefferer nofollow external"> miHoYo (<i>ZZZ, Genshin, HSR</i>) and <i>Arknights: Endfield Stats</i> </a> (only Zenless Zone Zero active) 
+- <a href="https://enka.motzey.com" ref="noopener norefferer nofollow external"> <i>Zenless Zone Zero</i> (and other miHoYO titles) and <i>Arknights: Endfield</i> Stats </a> (only Zenless Zone Zero active) 
 - <a href="https://rocketleague.tracker.network/rocket-league/profile/epic/nekomata-mottsii/overview" ref="noopener norefferer nofollow external"> Rocket League Stats </a> (noramlly inactive player by now)
 <br>
 
 <a href="https://github.com/nekomata-mottsii"> back to main page </a>
 
-<sub> last updated on: 2026-08-04 at 03:13 AM UTC+02 (CEST) </sub>
+<sub> last updated on: 2026-08-04 at 03:14 AM UTC+02 (CEST) </sub>
