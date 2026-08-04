@@ -1,4 +1,4 @@
-last update: Thu, 2026-06-04 at 01:53 PM GMT+2 (CEST)  <br />
+last update: Thu, 2026-08-04 at 03:01 AM GMT+2 (CEST)  <br />
 
 ---
 
@@ -18,9 +18,9 @@ estimated watchtime: 57.8 days (1.9 months)
 ---
 
 ### Top 3 Genres
-1. Comedy (57%)
+1. Comedy (58%)
 2. Romance (47%)
-3. Fantasy (29%) <br/>
+3. Fantasy (28%) <br/>
 <sup>percentages are of completed list (e.g. 57% of all completed anime are comedy) and not of 100%</sup>
 ---
 
@@ -37,8 +37,8 @@ Japan (English Translation) <br /><br />
 ### Top Anime
 1. <ruby><rb>四月</rb><rt>しがつ</rt><rb>わ</rb><rt></rt><rb>君</rb><rt>きみ</rt><rb>の</rb><rt></rt><rb>噓</rb><rt>うそ</rt></ruby> <br/> shigatsu wa kimi no uso <br/> Your Lie In April
 2. <ruby><rb>君</rb><rt>きみ</rt><rb>は</rb><rt></rt><rb>放課後</rb><rt>ほうかご</rt><rb>インソムニア</rb><rt></rt></ruby> <br/> kimi wa hōkago insomunia <br/> Insomniacs After School
-3. <ruby><rb>クラスで２</rb><rt></rt><rb>番</rb><rt>ばん</rt><rb>目</rb><rt>め</rt><rb>に</rb><rt></rt><rb>可愛</rb><rt>かわい</rt><rb>い</rb><rt></rt><rb>女</rb><rt>おんな</rt><rb>の</rb><rt></rt><rb>子</rb><rt>こ</rt><rb>と</rb><rt></rt><rb>友</rb><rt>とも</rt><rb>だちになった</rb><rt></rt></ruby> <br/> kurasu de 2-banme ni kawaii on'nanoko to tomodachi ni natta <br/> I Made Friends with the Second Prettiest Girl in My Class
-4. <ruby><rb>押</rb><rt>お</rt><rb>しの</rb><rt></rt><rb>子</rb><rt>こ</rt></ruby> <br/> oshi no ko <br/> My Star
+3. <ruby><rb>押</rb><rt>お</rt><rb>しの</rb><rt></rt><rb>子</rb><rt>こ</rt></ruby> <br/> oshi no ko <br/> My Star
+4. <ruby><rb>クラスで２</rb><rt></rt><rb>番</rb><rt>ばん</rt><rb>目</rb><rt>め</rt><rb>に</rb><rt></rt><rb>可愛</rb><rt>かわい</rt><rb>い</rb><rt></rt><rb>女</rb><rt>おんな</rt><rb>の</rb><rt></rt><rb>子</rb><rt>こ</rt><rb>と</rb><rt></rt><rb>友</rb><rt>とも</rt><rb>だちになった</rb><rt></rt></ruby> <br/> kurasu de 2-banme ni kawaii on'nanoko to tomodachi ni natta <br/> I Made Friends with the Second Prettiest Girl in My Class
 5. <ruby><rb>双星</rb><rt>ふたぼし</rt><rb>の</rb><rt></rt><rb>陰陽師</rb><rt>いんようし</rt></ruby> <br/> futaboshi no in'yōshi <br/> Twin Star Exorcists
 6. デート・ア・ライブ <br/> dēto a raibu <br/> Date A Live
 7. <ruby><rb>ジョゼと</rb><rt></rt><rb>虎</rb><rt>とら</rt><rb>と</rb><rt></rt><rb>魚</rb><rt>さかな</rt><rb>たち</rb><rt></rt></ruby> <br/> joze to tora to sakanatachi <br/> Josee, the Tiger and the Fish
