@@ -9,5 +9,5 @@ find me on these social media:
 <a href="https://github.com/nekomata-mottsii"> back to main page</a>
 
 <br />
---- 
+---
 <sub> last updated on: Tue, 2026-08-04 at 03:20 AM UTC+02 (CEST) </sub>
